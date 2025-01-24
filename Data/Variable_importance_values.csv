@@ -1,0 +1,75 @@
+expl.var,Type,var.imp,Group
+Woody Savannas  ,var.imp.x,-0.0055786,Land-Use
+Woody Savannas  ,var.imp.y,0.009597,Land-Use
+Water Occurrence (Surface),var.imp.x,-0.005526,Land-Use
+Water Occurrence (Surface),var.imp.y,0.007307667,Land-Use
+Urban Areas,var.imp.x,-0.02150246,Other
+Urban Areas,var.imp.y,0.0877,Other
+Sugarcane Harvested Area,var.imp.x,-0.0111244,Land-Use
+Sugarcane Harvested Area,var.imp.y,0.006872667,Land-Use
+Soybean Harvested Area,var.imp.x,-0.0050308,Land-Use
+Soybean Harvested Area,var.imp.y,0.006565333,Land-Use
+Shrublands,var.imp.x,-0.0053252,Land-Use
+Shrublands,var.imp.y,0.006248,Land-Use
+Savannas  ,var.imp.x,-0.00925,Land-Use
+Savannas  ,var.imp.y,0.031546667,Land-Use
+Regularly Flooded Vegetation  ,var.imp.x,-0.0054368,Land-Use
+Regularly Flooded Vegetation  ,var.imp.y,0.006145333,Land-Use
+Population Density,var.imp.x,-0.0186478,Other
+Population Density,var.imp.y,0.190628,Other
+Mixed Trees  ,var.imp.x,-0.0058522,Land-Use
+Mixed Trees  ,var.imp.y,0.007551,Land-Use
+Maize Harvested Area,var.imp.x,-0.0052814,Land-Use
+Maize Harvested Area,var.imp.y,0.006712667,Land-Use
+Land Natural Vegetation  ,var.imp.x,-0.0089874,Land-Use
+Land Natural Vegetation  ,var.imp.y,0.006848333,Land-Use
+Humidity Rainy Season,var.imp.x,-0.0061532,Climate
+Humidity Rainy Season,var.imp.y,0.006273,Climate
+Humidity Dry Season,var.imp.x,-0.005548,Climate
+Humidity Dry Season,var.imp.y,0.0062,Climate
+Herbaceous Vegetation  ,var.imp.x,-0.0059492,Land-Use
+Herbaceous Vegetation  ,var.imp.y,0.006083333,Land-Use
+Grasslands  ,var.imp.x,-0.0052782,Land-Use
+Grasslands  ,var.imp.y,0.006209,Land-Use
+Forest Loss,var.imp.x,-0.0139772,Land-Use
+Forest Loss,var.imp.y,0.007651333,Land-Use
+Elevation  ,var.imp.x,-0.0053398,Other
+Elevation  ,var.imp.y,0.012132667,Other
+Deciduous Broadleaf Trees  ,var.imp.x,-0.0055508,Land-Use
+Deciduous Broadleaf Trees  ,var.imp.y,0.006122667,Land-Use
+Cultivated Managed Vegetation  ,var.imp.x,-0.005238,Land-Use
+Cultivated Managed Vegetation  ,var.imp.y,0.007078667,Land-Use
+Coffee Harvested Area,var.imp.x,-0.0067374,Land-Use
+Coffee Harvested Area,var.imp.y,0.007156,Land-Use
+Cocoa Harvested Area,var.imp.x,-0.005243,Land-Use
+Cocoa Harvested Area,var.imp.y,0.007426333,Land-Use
+Cattle Production,var.imp.x,-0.006059,Land-Use
+Cattle Production,var.imp.y,0.006985,Land-Use
+Cassava Harvested Area,var.imp.x,-0.0057078,Land-Use
+Cassava Harvested Area,var.imp.y,0.009704667,Land-Use
+Banana Harvested Area,var.imp.x,-0.0322838,Land-Use
+Banana Harvested Area,var.imp.y,0.015615667,Land-Use
+Minimum Temperature Rainy Season,var.imp.x,-0.007484,Climate
+Minimum Temperature Rainy Season,var.imp.y,0.007298333,Climate
+Minimum Temperature Dry Season,var.imp.x,-0.017349,Climate
+Minimum Temperature Dry Season,var.imp.y,0.021406667,Climate
+Maximum Temperature Rainy Season,var.imp.x,-0.0068802,Climate
+Maximum Temperature Rainy Season,var.imp.y,0.006724333,Climate
+Maximum Temperature Dry Season,var.imp.x,-0.0067644,Climate
+Maximum Temperature Dry Season,var.imp.y,0.006938333,Climate
+Temperature Rainy Season,var.imp.x,-0.0264784,Climate
+Temperature Rainy Season,var.imp.y,0.006375,Climate
+Temperature Dry Season,var.imp.x,-0.006518,Climate
+Temperature Dry Season,var.imp.y,0.016218333,Climate
+Soil Moisture Rainy Season,var.imp.x,-0.0303084,Climate
+Soil Moisture Rainy Season,var.imp.y,0.006929667,Climate
+Soil Moisture Dry Season,var.imp.x,-0.0066854,Climate
+Soil Moisture Dry Season,var.imp.y,0.007564333,Climate
+Precipitation Rainy Season,var.imp.x,-0.006878,Climate
+Precipitation Rainy Season,var.imp.y,0.026148,Climate
+Precipitation Dry Season,var.imp.x,-0.006582,Climate
+Precipitation Dry Season,var.imp.y,0.007666333,Climate
+Forests Evergreen Broadleaf  ,var.imp.x,-0.009380667,Land-Use
+Forests Evergreen Broadleaf  ,var.imp.y,0.0064082,Land-Use
+Croplands 2019,var.imp.x,-0.0050322,Land-Use
+Croplands 2019,var.imp.y,0.006635,Land-Use
