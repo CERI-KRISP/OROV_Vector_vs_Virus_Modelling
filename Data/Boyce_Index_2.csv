@@ -1,0 +1,201 @@
+PA.nb.absences,Sampling_Technique,PA_Ratio,Radii,Sigma_(KDE),Boyce_Index
+Density_Weighted_Sigma1_Buffer0_n400.tif,Density-Weighted Geographic Sampling,400, - ,1,0.864278179
+Density_Weighted_Sigma3_Buffer0_n400.tif,Density-Weighted Geographic Sampling,400, - ,3,0.760760134
+Density_Weighted_Sigma5_Buffer0_n400.tif,Density-Weighted Geographic Sampling,400, - ,5,0.787421671
+Density_Weighted_Sigma1_Buffer50k_150k_n400.tif,Density-Weighted Geographic Sampling,400,50 - 150 km,1,0.657612314
+Density_Weighted_Sigma3_Buffer50k_150k_n400.tif,Density-Weighted Geographic Sampling,400,50 - 150 km,3,0.653772401
+Density_Weighted_Sigma5_Buffer50k_150k_n400.tif,Density-Weighted Geographic Sampling,400,50 - 150 km,5,0.853916631
+Density_Weighted_Sigma1_Buffer50k_300k_n400.tif,Density-Weighted Geographic Sampling,400,50 - 300 km,1,0.687291777
+Density_Weighted_Sigma3_Buffer50k_300k_n400.tif,Density-Weighted Geographic Sampling,400,50 - 300 km,3,0.872789707
+Density_Weighted_Sigma5_Buffer50k_300k_n400.tif,Density-Weighted Geographic Sampling,400,50 - 300 km,5,0.710626453
+Density_Weighted_Sigma1_Buffer50k_500k_n400.tif,Density-Weighted Geographic Sampling,400,50 - 500 km,1,0.812641314
+Density_Weighted_Sigma3_Buffer50k_500k_n400.tif,Density-Weighted Geographic Sampling,400,50 - 500 km,3,0.786200983
+Density_Weighted_Sigma5_Buffer50k_500k_n400.tif,Density-Weighted Geographic Sampling,400,50 - 500 km,5,0.891150356
+Density_Weighted_Sigma1_Buffer0_n800.tif,Density-Weighted Geographic Sampling,800, - ,1,0.363208075
+Density_Weighted_Sigma3_Buffer0_n800.tif,Density-Weighted Geographic Sampling,800, - ,3,0.715718597
+Density_Weighted_Sigma5_Buffer0_n800.tif,Density-Weighted Geographic Sampling,800, - ,5,0.515280223
+Density_Weighted_Sigma1_Buffer50k_150k_n800.tif,Density-Weighted Geographic Sampling,800,50 - 150 km,1,0.872084521
+Density_Weighted_Sigma3_Buffer50k_150k_n800.tif,Density-Weighted Geographic Sampling,800,50 - 150 km,3,0.420787946
+Density_Weighted_Sigma5_Buffer50k_150k_n800.tif,Density-Weighted Geographic Sampling,800,50 - 150 km,5,0.267904184
+Density_Weighted_Sigma1_Buffer50k_300k_n800.tif,Density-Weighted Geographic Sampling,800,50 - 300 km,1,0.862302727
+Density_Weighted_Sigma3_Buffer50k_300k_n800.tif,Density-Weighted Geographic Sampling,800,50 - 300 km,3,0.491298359
+Density_Weighted_Sigma5_Buffer50k_300k_n800.tif,Density-Weighted Geographic Sampling,800,50 - 300 km,5,0.358901193
+Density_Weighted_Sigma1_Buffer50k_500k_n800.tif,Density-Weighted Geographic Sampling,800,50 - 500 km,1,0.718885665
+Density_Weighted_Sigma3_Buffer50k_500k_n800.tif,Density-Weighted Geographic Sampling,800,50 - 500 km,3,0.15486576
+Density_Weighted_Sigma5_Buffer50k_500k_n800.tif,Density-Weighted Geographic Sampling,800,50 - 500 km,5,0.252474321
+Density_Weighted_Sigma1_Buffer0_n2000.tif,Density-Weighted Geographic Sampling,2000, - ,1,0.157709721
+Density_Weighted_Sigma3_Buffer0_n2000.tif,Density-Weighted Geographic Sampling,2000, - ,3,0.665161964
+Density_Weighted_Sigma5_Buffer0_n2000.tif,Density-Weighted Geographic Sampling,2000, - ,5,0.661640931
+Density_Weighted_Sigma1_Buffer50k_150k_n2000.tif,Density-Weighted Geographic Sampling,2000,50 - 150 km,1,0.708624179
+Density_Weighted_Sigma3_Buffer50k_150k_n2000.tif,Density-Weighted Geographic Sampling,2000,50 - 150 km,3,0.6774841
+Density_Weighted_Sigma5_Buffer50k_150k_n2000.tif,Density-Weighted Geographic Sampling,2000,50 - 150 km,5,0.789157521
+Density_Weighted_Sigma1_Buffer50k_300k_n2000.tif,Density-Weighted Geographic Sampling,2000,50 - 300 km,1,0.860266948
+Density_Weighted_Sigma3_Buffer50k_300k_n2000.tif,Density-Weighted Geographic Sampling,2000,50 - 300 km,3,0.792623765
+Density_Weighted_Sigma5_Buffer50k_300k_n2000.tif,Density-Weighted Geographic Sampling,2000,50 - 300 km,5,0.441932629
+Density_Weighted_Sigma1_Buffer50k_500k_n2000.tif,Density-Weighted Geographic Sampling,2000,50 - 500 km,1,0.820072625
+Density_Weighted_Sigma3_Buffer50k_500k_n2000.tif,Density-Weighted Geographic Sampling,2000,50 - 500 km,3,0.130046484
+Density_Weighted_Sigma5_Buffer50k_500k_n2000.tif,Density-Weighted Geographic Sampling,2000,50 - 500 km,5,0.270532026
+Density_Weighted_Sigma1_Buffer0_n4000.tif,Density-Weighted Geographic Sampling,4000, - ,1,0.174605619
+Density_Weighted_Sigma3_Buffer0_n4000.tif,Density-Weighted Geographic Sampling,4000, - ,3,0.832211195
+Density_Weighted_Sigma5_Buffer0_n4000.tif,Density-Weighted Geographic Sampling,4000, - ,5,0.869729902
+Density_Weighted_Sigma1_Buffer50k_150k_n4000.tif,Density-Weighted Geographic Sampling,4000,50 - 150 km,1,0.787492593
+Density_Weighted_Sigma3_Buffer50k_150k_n4000.tif,Density-Weighted Geographic Sampling,4000,50 - 150 km,3,0.834968223
+Density_Weighted_Sigma5_Buffer50k_150k_n4000.tif,Density-Weighted Geographic Sampling,4000,50 - 150 km,5,0.773883607
+Density_Weighted_Sigma1_Buffer50k_300k_n4000.tif,Density-Weighted Geographic Sampling,4000,50 - 300 km,1,0.820199146
+Density_Weighted_Sigma3_Buffer50k_300k_n4000.tif,Density-Weighted Geographic Sampling,4000,50 - 300 km,3,0.909706804
+Density_Weighted_Sigma5_Buffer50k_300k_n4000.tif,Density-Weighted Geographic Sampling,4000,50 - 300 km,5,0.833271137
+Density_Weighted_Sigma1_Buffer50k_500k_n4000.tif,Density-Weighted Geographic Sampling,4000,50 - 500 km,1,0.680799152
+Density_Weighted_Sigma3_Buffer50k_500k_n4000.tif,Density-Weighted Geographic Sampling,4000,50 - 500 km,3,0.575335079
+Density_Weighted_Sigma5_Buffer50k_500k_n4000.tif,Density-Weighted Geographic Sampling,4000,50 - 500 km,5,0.486980416
+Density_Weighted_Sigma1_Buffer0_n10000.tif,Density-Weighted Geographic Sampling,10000, - ,1,0.606501696
+Density_Weighted_Sigma3_Buffer0_n10000.tif,Density-Weighted Geographic Sampling,10000, - ,3,0.592441243
+Density_Weighted_Sigma5_Buffer0_n10000.tif,Density-Weighted Geographic Sampling,10000, - ,5,0.746703305
+Density_Weighted_Sigma1_Buffer50k_150k_n10000.tif,Density-Weighted Geographic Sampling,10000,50 - 150 km,1,0.662140213
+Density_Weighted_Sigma3_Buffer50k_150k_n10000.tif,Density-Weighted Geographic Sampling,10000,50 - 150 km,3,0.695854011
+Density_Weighted_Sigma5_Buffer50k_150k_n10000.tif,Density-Weighted Geographic Sampling,10000,50 - 150 km,5,0.723111899
+Density_Weighted_Sigma1_Buffer50k_300k_n10000.tif,Density-Weighted Geographic Sampling,10000,50 - 300 km,1,0.577289293
+Density_Weighted_Sigma3_Buffer50k_300k_n10000.tif,Density-Weighted Geographic Sampling,10000,50 - 300 km,3,0.690928918
+Density_Weighted_Sigma5_Buffer50k_300k_n10000.tif,Density-Weighted Geographic Sampling,10000,50 - 300 km,5,0.924278179
+Density_Weighted_Sigma1_Buffer50k_500k_n10000.tif,Density-Weighted Geographic Sampling,10000,50 - 500 km,1,0.689413723
+Density_Weighted_Sigma3_Buffer50k_500k_n10000.tif,Density-Weighted Geographic Sampling,10000,50 - 500 km,3,0.708197876
+Density_Weighted_Sigma5_Buffer50k_500k_n10000.tif,Density-Weighted Geographic Sampling,10000,50 - 500 km,5,0.653049043
+Density_PopulationDSigma1_Buffer0_n400.tif,Density-Weighted Population-Based Sampling,400, - ,1,0.777445543
+Density_PopulationDSigma3_Buffer0_n400.tif,Density-Weighted Population-Based Sampling,400, - ,3,0.726742573
+Density_PopulationDSigma5_Buffer0_n400.tif,Density-Weighted Population-Based Sampling,400, - ,5,0.85493314
+Density_PopulationDSigma1_Buffer50k_150k_n400.tif,Density-Weighted Population-Based Sampling,400,50 - 150 km,1,0.865538258
+Density_PopulationDSigma3_Buffer50k_150k_n400.tif,Density-Weighted Population-Based Sampling,400,50 - 150 km,3,0.775779838
+Density_PopulationDSigma5_Buffer50k_150k_n400.tif,Density-Weighted Population-Based Sampling,400,50 - 150 km,5,0.816244108
+Density_PopulationDSigma1_Buffer50k_300k_n400.tif,Density-Weighted Population-Based Sampling,400,50 - 300 km,1,0.850472318
+Density_PopulationDSigma3_Buffer50k_300k_n400.tif,Density-Weighted Population-Based Sampling,400,50 - 300 km,3,0.904278179
+Density_PopulationDSigma5_Buffer50k_300k_n400.tif,Density-Weighted Population-Based Sampling,400,50 - 300 km,5,0.791233005
+Density_PopulationDSigma1_Buffer50k_500k_n400.tif,Density-Weighted Population-Based Sampling,400,50 - 500 km,1,0.687696987
+Density_PopulationDSigma3_Buffer50k_500k_n400.tif,Density-Weighted Population-Based Sampling,400,50 - 500 km,3,0.893591268
+Density_PopulationDSigma5_Buffer50k_500k_n400.tif,Density-Weighted Population-Based Sampling,400,50 - 500 km,5,0.847313415
+Density_PopulationDSigma1_Buffer0_n800.tif,Density-Weighted Population-Based Sampling,800, - ,1,0.586597051
+Density_PopulationDSigma3_Buffer0_n800.tif,Density-Weighted Population-Based Sampling,800, - ,3,0.4945305
+Density_PopulationDSigma5_Buffer0_n800.tif,Density-Weighted Population-Based Sampling,800, - ,5,0.852295885
+Density_PopulationDSigma1_Buffer50k_150k_n800.tif,Density-Weighted Population-Based Sampling,800,50 - 150 km,1,0.78626185
+Density_PopulationDSigma3_Buffer50k_150k_n800.tif,Density-Weighted Population-Based Sampling,800,50 - 150 km,3,0.872033293
+Density_PopulationDSigma5_Buffer50k_150k_n800.tif,Density-Weighted Population-Based Sampling,800,50 - 150 km,5,0.669191161
+Density_PopulationDSigma1_Buffer50k_300k_n800.tif,Density-Weighted Population-Based Sampling,800,50 - 300 km,1,0.587706141
+Density_PopulationDSigma3_Buffer50k_300k_n800.tif,Density-Weighted Population-Based Sampling,800,50 - 300 km,3,0.604244944
+Density_PopulationDSigma5_Buffer50k_300k_n800.tif,Density-Weighted Population-Based Sampling,800,50 - 300 km,5,0.826237328
+Density_PopulationDSigma1_Buffer50k_500k_n800.tif,Density-Weighted Population-Based Sampling,800,50 - 500 km,1,0.422243125
+Density_PopulationDSigma3_Buffer50k_500k_n800.tif,Density-Weighted Population-Based Sampling,800,50 - 500 km,3,0.196675311
+Density_PopulationDSigma5_Buffer50k_500k_n800.tif,Density-Weighted Population-Based Sampling,800,50 - 500 km,5,0.292550757
+Density_PopulationDSigma1_Buffer0_n2000.tif,Density-Weighted Population-Based Sampling,2000, - ,1,0.845609405
+Density_PopulationDSigma3_Buffer0_n2000.tif,Density-Weighted Population-Based Sampling,2000, - ,3,0.884037147
+Density_PopulationDSigma5_Buffer0_n2000.tif,Density-Weighted Population-Based Sampling,2000, - ,5,0.896240602
+Density_PopulationDSigma1_Buffer50k_150k_n2000.tif,Density-Weighted Population-Based Sampling,2000,50 - 150 km,1,0.751976392
+Density_PopulationDSigma3_Buffer50k_150k_n2000.tif,Density-Weighted Population-Based Sampling,2000,50 - 150 km,3,0.894657891
+Density_PopulationDSigma5_Buffer50k_150k_n2000.tif,Density-Weighted Population-Based Sampling,2000,50 - 150 km,5,0.660632347
+Density_PopulationDSigma1_Buffer50k_300k_n2000.tif,Density-Weighted Population-Based Sampling,2000,50 - 300 km,1,0.585353443
+Density_PopulationDSigma3_Buffer50k_300k_n2000.tif,Density-Weighted Population-Based Sampling,2000,50 - 300 km,3,0.881445801
+Density_PopulationDSigma5_Buffer50k_300k_n2000.tif,Density-Weighted Population-Based Sampling,2000,50 - 300 km,5,0.67523352
+Density_PopulationDSigma1_Buffer50k_500k_n2000.tif,Density-Weighted Population-Based Sampling,2000,50 - 500 km,1,0.896534886
+Density_PopulationDSigma3_Buffer50k_500k_n2000.tif,Density-Weighted Population-Based Sampling,2000,50 - 500 km,3,0.707929569
+Density_PopulationDSigma5_Buffer50k_500k_n2000.tif,Density-Weighted Population-Based Sampling,2000,50 - 500 km,5,0.560783195
+Density_PopulationDSigma1_Buffer0_n4000.tif,Density-Weighted Population-Based Sampling,4000, - ,1,0.734392331
+Density_PopulationDSigma3_Buffer0_n4000.tif,Density-Weighted Population-Based Sampling,4000, - ,3,0.857689539
+Density_PopulationDSigma5_Buffer0_n4000.tif,Density-Weighted Population-Based Sampling,4000, - ,5,0.898082049
+Density_PopulationDSigma1_Buffer50k_150k_n4000.tif,Density-Weighted Population-Based Sampling,4000,50 - 150 km,1,0.816473641
+Density_PopulationDSigma3_Buffer50k_150k_n4000.tif,Density-Weighted Population-Based Sampling,4000,50 - 150 km,3,0.896085354
+Density_PopulationDSigma5_Buffer50k_150k_n4000.tif,Density-Weighted Population-Based Sampling,4000,50 - 150 km,5,0.891312587
+Density_PopulationDSigma1_Buffer50k_300k_n4000.tif,Density-Weighted Population-Based Sampling,4000,50 - 300 km,1,0.85587766
+Density_PopulationDSigma3_Buffer50k_300k_n4000.tif,Density-Weighted Population-Based Sampling,4000,50 - 300 km,3,0.829947564
+Density_PopulationDSigma5_Buffer50k_300k_n4000.tif,Density-Weighted Population-Based Sampling,4000,50 - 300 km,5,0.860280737
+Density_PopulationDSigma1_Buffer50k_500k_n4000.tif,Density-Weighted Population-Based Sampling,4000,50 - 500 km,1,0.880693072
+Density_PopulationDSigma3_Buffer50k_500k_n4000.tif,Density-Weighted Population-Based Sampling,4000,50 - 500 km,3,0.871756361
+Density_PopulationDSigma5_Buffer50k_500k_n4000.tif,Density-Weighted Population-Based Sampling,4000,50 - 500 km,5,0.92215125
+Density_PopulationDSigma1_Buffer0_n10000.tif,Density-Weighted Population-Based Sampling,10000, - ,1,0.886379858
+Density_PopulationDSigma3_Buffer0_n10000.tif,Density-Weighted Population-Based Sampling,10000, - ,3,0.745475938
+Density_PopulationDSigma5_Buffer0_n10000.tif,Density-Weighted Population-Based Sampling,10000, - ,5,0.78475126
+Density_PopulationDSigma1_Buffer50k_150k_n10000.tif,Density-Weighted Population-Based Sampling,10000,50 - 150 km,1,0.715492174
+Density_PopulationDSigma3_Buffer50k_150k_n10000.tif,Density-Weighted Population-Based Sampling,10000,50 - 150 km,3,0.838222826
+Density_PopulationDSigma5_Buffer50k_150k_n10000.tif,Density-Weighted Population-Based Sampling,10000,50 - 150 km,5,0.737589376
+Density_PopulationDSigma1_Buffer50k_300k_n10000.tif,Density-Weighted Population-Based Sampling,10000,50 - 300 km,1,0.782647082
+Density_PopulationDSigma3_Buffer50k_300k_n10000.tif,Density-Weighted Population-Based Sampling,10000,50 - 300 km,3,0.739697539
+Density_PopulationDSigma5_Buffer50k_300k_n10000.tif,Density-Weighted Population-Based Sampling,10000,50 - 300 km,5,0.875628447
+Density_PopulationDSigma1_Buffer50k_500k_n10000.tif,Density-Weighted Population-Based Sampling,10000,50 - 500 km,1,0.757597498
+Density_PopulationDSigma3_Buffer50k_500k_n10000.tif,Density-Weighted Population-Based Sampling,10000,50 - 500 km,3,0.826678827
+Density_PopulationDSigma5_Buffer50k_500k_n10000.tif,Density-Weighted Population-Based Sampling,10000,50 - 500 km,5,0.920587715
+Geographic_Sampling_400_D150000.tif,Geographic Sampling,400,50 - 150 km, - ,0.807534389
+Geographic_Sampling_400_D3e.05.tif,Geographic Sampling,400,50 - 300 km, - ,0.802028801
+Geographic_Sampling_400_D5e.05.tif,Geographic Sampling,400,50 - 500 km, - ,0.828431853
+Geographic_Sampling_800_D150000.tif,Geographic Sampling,800,50 - 150 km, - ,0.697549953
+Geographic_Sampling_800_D3e.05.tif,Geographic Sampling,800,50 - 300 km, - ,0.854347552
+Geographic_Sampling_800_D5e.05.tif,Geographic Sampling,800,50 - 500 km, - ,0.398192436
+Geographic_Sampling_2000_D150000.tif,Geographic Sampling,2000,50 - 150 km, - ,0.855424514
+Geographic_Sampling_2000_D3e.05.tif,Geographic Sampling,2000,50 - 300 km, - ,0.586863904
+Geographic_Sampling_2000_D5e.05.tif,Geographic Sampling,2000,50 - 500 km, - ,0.80549139
+Geographic_Sampling_4000_D150000.tif,Geographic Sampling,4000,50 - 150 km, - ,0.33877541
+Geographic_Sampling_4000_D3e.05.tif,Geographic Sampling,4000,50 - 300 km, - ,0.747562009
+Geographic_Sampling_4000_D5e.05.tif,Geographic Sampling,4000,50 - 500 km, - ,0.600387726
+Geographic_Sampling_10000_D150000.tif,Geographic Sampling,10000,50 - 150 km, - ,0.813338744
+Geographic_Sampling_10000_D3e.05.tif,Geographic Sampling,10000,50 - 300 km, - ,0.570676694
+Geographic_Sampling_10000_D5e.05.tif,Geographic Sampling,10000,50 - 500 km, - ,0.836707053
+Random_Sampling_400.tif,Random Sampling,400, - , - ,0.653057652
+Random_Sampling_800.tif,Random Sampling,800, - , - ,0.287172002
+Random_Sampling_2000.tif,Random Sampling,2000, - , - ,0.184802898
+Random_Sampling_4000.tif,Random Sampling,4000, - , - ,0.153860497
+Random_Sampling_10000.tif,Random Sampling,10000, - , - ,0.723778738
+TargetBased_Sigma1_Buffer0_n400.tif,Target Group-Based Sampling,400, - ,1,0.689413723
+TargetBased_Sigma1_Buffer50k_150k_n400.tif,Target Group-Based Sampling,400,50 - 150 km,1,0.729969651
+TargetBased_Sigma1_Buffer50k_300k_n400.tif,Target Group-Based Sampling,400,50 - 300 km,1,0.854238379
+TargetBased_Sigma1_Buffer50k_500k_n400.tif,Target Group-Based Sampling,400,50 - 500 km,1,0.848307927
+TargetBased_Sigma3_Buffer0_n400.tif,Target Group-Based Sampling,400, - ,3,0.678155521
+TargetBased_Sigma3_Buffer50k_150k_n400.tif,Target Group-Based Sampling,400,50 - 150 km,3,0.584161592
+TargetBased_Sigma3_Buffer50k_300k_n400.tif,Target Group-Based Sampling,400,50 - 300 km,3,0.787444409
+TargetBased_Sigma3_Buffer50k_500k_n400.tif,Target Group-Based Sampling,400,50 - 500 km,3,0.745473068
+TargetBased_Sigma5_Buffer0_n400.tif,Target Group-Based Sampling,400, - ,5,0.636381898
+TargetBased_Sigma5_Buffer50k_150k_n400.tif,Target Group-Based Sampling,400,50 - 150 km,5,0.697966806
+TargetBased_Sigma5_Buffer50k_300k_n400.tif,Target Group-Based Sampling,400,50 - 300 km,5,0.717257977
+TargetBased_Sigma5_Buffer50k_500k_n400.tif,Target Group-Based Sampling,400,50 - 500 km,5,0.968517945
+TargetBased_Sigma1_Buffer0_n800.tif,Target Group-Based Sampling,800, - ,1,0.890745848
+TargetBased_Sigma3_Buffer0_n800.tif,Target Group-Based Sampling,800, - ,3,0.475080407
+TargetBased_Sigma5_Buffer0_n800.tif,Target Group-Based Sampling,800, - ,5,0.564848403
+TargetBased_Sigma1_Buffer50k_150k_n800.tif,Target Group-Based Sampling,800,50 - 150 km,1,0.531929347
+TargetBased_Sigma3_Buffer50k_150k_n800.tif,Target Group-Based Sampling,800,50 - 150 km,3,0.495282067
+TargetBased_Sigma5_Buffer50k_150k_n800.tif,Target Group-Based Sampling,800,50 - 150 km,5,0.481671262
+TargetBased_Sigma1_Buffer50k_300k_n800.tif,Target Group-Based Sampling,800,50 - 300 km,1,0.350813036
+TargetBased_Sigma3_Buffer50k_300k_n800.tif,Target Group-Based Sampling,800,50 - 300 km,3,0.603023161
+TargetBased_Sigma5_Buffer50k_300k_n800.tif,Target Group-Based Sampling,800,50 - 300 km,5,0.467350198
+TargetBased_Sigma1_Buffer50k_500k_n800.tif,Target Group-Based Sampling,800,50 - 500 km,1,0.347793054
+TargetBased_Sigma3_Buffer50k_500k_n800.tif,Target Group-Based Sampling,800,50 - 500 km,3,0.306840198
+TargetBased_Sigma5_Buffer50k_500k_n800.tif,Target Group-Based Sampling,800,50 - 500 km,5,0.288530772
+TargetBased_Sigma1_Buffer0_n2000.tif,Target Group-Based Sampling,2000, - ,1,0.829818522
+TargetBased_Sigma3_Buffer0_n2000.tif,Target Group-Based Sampling,2000, - ,3,0.836866599
+TargetBased_Sigma5_Buffer0_n2000.tif,Target Group-Based Sampling,2000, - ,5,0.703579402
+TargetBased_Sigma1_Buffer50k_150k_n2000.tif,Target Group-Based Sampling,2000,50 - 150 km,1,0.827234475
+TargetBased_Sigma3_Buffer50k_150k_n2000.tif,Target Group-Based Sampling,2000,50 - 150 km,3,0.690107921
+TargetBased_Sigma5_Buffer50k_150k_n2000.tif,Target Group-Based Sampling,2000,50 - 150 km,5,0.835721804
+TargetBased_Sigma1_Buffer50k_300k_n2000.tif,Target Group-Based Sampling,2000,50 - 300 km,1,0.505525599
+TargetBased_Sigma3_Buffer50k_300k_n2000.tif,Target Group-Based Sampling,2000,50 - 300 km,3,0.644532891
+TargetBased_Sigma5_Buffer50k_300k_n2000.tif,Target Group-Based Sampling,2000,50 - 300 km,5,0.49058151
+TargetBased_Sigma1_Buffer50k_500k_n2000.tif,Target Group-Based Sampling,2000,50 - 500 km,1,0.105192827
+TargetBased_Sigma3_Buffer50k_500k_n2000.tif,Target Group-Based Sampling,2000,50 - 500 km,3,0.136392471
+TargetBased_Sigma5_Buffer50k_500k_n2000.tif,Target Group-Based Sampling,2000,50 - 500 km,5,0.330277078
+TargetBased_Sigma1_Buffer0_n4000.tif,Target Group-Based Sampling,4000, - ,1,0.793962178
+TargetBased_Sigma3_Buffer0_n4000.tif,Target Group-Based Sampling,4000, - ,3,0.826366814
+TargetBased_Sigma5_Buffer0_n4000.tif,Target Group-Based Sampling,4000, - ,5,0.861464581
+TargetBased_Sigma1_Buffer50k_150k_n4000.tif,Target Group-Based Sampling,4000,50 - 150 km,1,0.763024301
+TargetBased_Sigma3_Buffer50k_150k_n4000.tif,Target Group-Based Sampling,4000,50 - 150 km,3,0.804071384
+TargetBased_Sigma5_Buffer50k_150k_n4000.tif,Target Group-Based Sampling,4000,50 - 150 km,5,0.620951097
+TargetBased_Sigma1_Buffer50k_300k_n4000.tif,Target Group-Based Sampling,4000,50 - 300 km,1,0.856068503
+TargetBased_Sigma3_Buffer50k_300k_n4000.tif,Target Group-Based Sampling,4000,50 - 300 km,3,0.725563069
+TargetBased_Sigma5_Buffer50k_300k_n4000.tif,Target Group-Based Sampling,4000,50 - 300 km,5,0.83535601
+TargetBased_Sigma1_Buffer50k_500k_n4000.tif,Target Group-Based Sampling,4000,50 - 500 km,1,0.151001679
+TargetBased_Sigma3_Buffer50k_500k_n4000.tif,Target Group-Based Sampling,4000,50 - 500 km,3,0.2781596
+TargetBased_Sigma5_Buffer50k_500k_n4000.tif,Target Group-Based Sampling,4000,50 - 500 km,5,0.155442389
+TargetBased_Sigma1_Buffer0_n10000.tif,Target Group-Based Sampling,10000, - ,1,0.723024016
+TargetBased_Sigma3_Buffer0_n10000.tif,Target Group-Based Sampling,10000, - ,3,0.637770979
+TargetBased_Sigma5_Buffer0_n10000.tif,Target Group-Based Sampling,10000, - ,5,0.801057058
+TargetBased_Sigma1_Buffer50k_150k_n10000.tif,Target Group-Based Sampling,10000,50 - 150 km,1,0.754722355
+TargetBased_Sigma3_Buffer50k_150k_n10000.tif,Target Group-Based Sampling,10000,50 - 150 km,3,0.707929569
+TargetBased_Sigma5_Buffer50k_150k_n10000.tif,Target Group-Based Sampling,10000,50 - 150 km,5,0.749550068
+TargetBased_Sigma1_Buffer50k_300k_n10000.tif,Target Group-Based Sampling,10000,50 - 300 km,1,0.723572385
+TargetBased_Sigma3_Buffer50k_300k_n10000.tif,Target Group-Based Sampling,10000,50 - 300 km,3,0.856498694
+TargetBased_Sigma5_Buffer50k_300k_n10000.tif,Target Group-Based Sampling,10000,50 - 300 km,5,0.725778403
+TargetBased_Sigma1_Buffer50k_500k_n10000.tif,Target Group-Based Sampling,10000,50 - 500 km,1,0.695293135
+TargetBased_Sigma3_Buffer50k_500k_n10000.tif,Target Group-Based Sampling,10000,50 - 500 km,3,0.59939827
+TargetBased_Sigma5_Buffer50k_500k_n10000.tif,Target Group-Based Sampling,10000,50 - 500 km,5,0.62136957
