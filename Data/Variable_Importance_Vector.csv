@@ -1,0 +1,1691 @@
+full.name,PA,run,algo,expl.var,rand,var.imp,Predictor_variable,Group
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,banana harvested area,1,0.032567,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,banana harvested area,2,0.040198,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,banana harvested area,3,0.039709,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,banana harvested area,4,0.034933,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,banana harvested area,5,0.040227,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,banana harvested area,1,0.036066,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,banana harvested area,2,0.035658,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,banana harvested area,3,0.038419,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,banana harvested area,4,0.034941,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,banana harvested area,5,0.038516,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,banana harvested area,1,0.114666,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,banana harvested area,2,0.117261,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,banana harvested area,3,0.109527,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,banana harvested area,4,0.113215,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,banana harvested area,5,0.106065,Banana Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,banana harvested area,1,0.066569,Banana Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,banana harvested area,2,0.06924,Banana Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,banana harvested area,3,0.069377,Banana Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,banana harvested area,4,0.065533,Banana Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,banana harvested area,5,0.066861,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,banana harvested area,1,0.008799,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,banana harvested area,2,0.007595,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,banana harvested area,3,0.00829,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,banana harvested area,4,0.007409,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,banana harvested area,5,0.007408,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,banana harvested area,1,0.016959,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,banana harvested area,2,0.016254,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,banana harvested area,3,0.017884,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,banana harvested area,4,0.015945,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,banana harvested area,5,0.015968,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,banana harvested area,1,0.00835,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,banana harvested area,2,0.009118,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,banana harvested area,3,0.008048,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,banana harvested area,4,0.008869,Banana Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,banana harvested area,5,0.00871,Banana Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,banana harvested area,1,0.007179,Banana Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,banana harvested area,2,0.007712,Banana Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,banana harvested area,3,0.007443,Banana Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,banana harvested area,4,0.0074,Banana Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,banana harvested area,5,0.007308,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,banana harvested area,1,0.011307,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,banana harvested area,2,0.012017,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,banana harvested area,3,0.011882,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,banana harvested area,4,0.012104,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,banana harvested area,5,0.013318,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,banana harvested area,1,0.014201,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,banana harvested area,2,0.013543,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,banana harvested area,3,0.01315,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,banana harvested area,4,0.013337,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,banana harvested area,5,0.014139,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,banana harvested area,1,0.013063,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,banana harvested area,2,0.012548,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,banana harvested area,3,0.011746,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,banana harvested area,4,0.012688,Banana Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,banana harvested area,5,0.012088,Banana Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,banana harvested area,1,0.011019,Banana Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,banana harvested area,2,0.01063,Banana Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,banana harvested area,3,0.010255,Banana Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,banana harvested area,4,0.010728,Banana Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,banana harvested area,5,0.011395,Banana Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,banana harvested area,1,0.071646,Banana Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,banana harvested area,2,0.075958,Banana Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,banana harvested area,3,0.073887,Banana Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,banana harvested area,4,0.076642,Banana Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,banana harvested area,5,0.074965,Banana Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cassava harvested area,1,0.00223,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cassava harvested area,2,0.002965,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cassava harvested area,3,0.002897,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cassava harvested area,4,0.002787,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cassava harvested area,5,0.002973,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cassava harvested area,1,0.002404,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cassava harvested area,2,0.002767,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cassava harvested area,3,0.002478,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cassava harvested area,4,0.002481,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cassava harvested area,5,0.002724,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cassava harvested area,1,0.009066,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cassava harvested area,2,0.010494,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cassava harvested area,3,0.009136,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cassava harvested area,4,0.01017,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cassava harvested area,5,0.011401,Cassava Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cassava harvested area,1,0.004449,Cassava Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cassava harvested area,2,0.005219,Cassava Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cassava harvested area,3,0.005644,Cassava Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cassava harvested area,4,0.004523,Cassava Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cassava harvested area,5,0.006025,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cassava harvested area,1,0.00291,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cassava harvested area,2,0.002659,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cassava harvested area,3,0.002993,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cassava harvested area,4,0.002817,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cassava harvested area,5,0.002797,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cassava harvested area,1,0.003378,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cassava harvested area,2,0.003602,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cassava harvested area,3,0.003918,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cassava harvested area,4,0.003647,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cassava harvested area,5,0.003867,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cassava harvested area,1,0.00219,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cassava harvested area,2,0.002487,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cassava harvested area,3,0.00244,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cassava harvested area,4,0.002251,Cassava Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cassava harvested area,5,0.002208,Cassava Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cassava harvested area,1,0.003462,Cassava Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cassava harvested area,2,0.002977,Cassava Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cassava harvested area,3,0.003736,Cassava Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cassava harvested area,4,0.003392,Cassava Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cassava harvested area,5,0.003422,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cassava harvested area,1,0.003529,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cassava harvested area,2,0.003056,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cassava harvested area,3,0.00367,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cassava harvested area,4,0.003128,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cassava harvested area,5,0.0033,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cassava harvested area,1,0.004213,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cassava harvested area,2,0.004026,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cassava harvested area,3,0.003837,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cassava harvested area,4,0.003839,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cassava harvested area,5,0.003437,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cassava harvested area,1,0.004359,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cassava harvested area,2,0.004062,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cassava harvested area,3,0.004583,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cassava harvested area,4,0.00408,Cassava Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cassava harvested area,5,0.004244,Cassava Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cassava harvested area,1,0.003517,Cassava Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cassava harvested area,2,0.003119,Cassava Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cassava harvested area,3,0.0039,Cassava Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cassava harvested area,4,0.00323,Cassava Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cassava harvested area,5,0.003444,Cassava Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cassava harvested area,1,0.007303,Cassava Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cassava harvested area,2,0.005985,Cassava Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cassava harvested area,3,0.00684,Cassava Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cassava harvested area,4,0.006801,Cassava Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cassava harvested area,5,0.00606,Cassava Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cattle production,1,0.002943,Cattle Production,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cattle production,2,0.00393,Cattle Production,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cattle production,3,0.002929,Cattle Production,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cattle production,4,0.002815,Cattle Production,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cattle production,5,0.003161,Cattle Production,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cattle production,1,5.97E-04,Cattle Production,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cattle production,2,5.03E-04,Cattle Production,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cattle production,3,5.06E-04,Cattle Production,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cattle production,4,4.96E-04,Cattle Production,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cattle production,5,4.70E-04,Cattle Production,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cattle production,1,0.002572,Cattle Production,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cattle production,2,0.00279,Cattle Production,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cattle production,3,0.003226,Cattle Production,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cattle production,4,0.003034,Cattle Production,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cattle production,5,0.002703,Cattle Production,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cattle production,1,0.002254,Cattle Production,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cattle production,2,0.002401,Cattle Production,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cattle production,3,0.002321,Cattle Production,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cattle production,4,0.002885,Cattle Production,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cattle production,5,0.002626,Cattle Production,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cattle production,1,0.001217,Cattle Production,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cattle production,2,0.001257,Cattle Production,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cattle production,3,0.001139,Cattle Production,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cattle production,4,0.001244,Cattle Production,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cattle production,5,0.001183,Cattle Production,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cattle production,1,0.006136,Cattle Production,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cattle production,2,0.006109,Cattle Production,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cattle production,3,0.005543,Cattle Production,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cattle production,4,0.005928,Cattle Production,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cattle production,5,0.006042,Cattle Production,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cattle production,1,8.65E-04,Cattle Production,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cattle production,2,8.41E-04,Cattle Production,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cattle production,3,7.94E-04,Cattle Production,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cattle production,4,9.71E-04,Cattle Production,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cattle production,5,8.30E-04,Cattle Production,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cattle production,1,0.001251,Cattle Production,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cattle production,2,0.001238,Cattle Production,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cattle production,3,0.001339,Cattle Production,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cattle production,4,0.001367,Cattle Production,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cattle production,5,0.001214,Cattle Production,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cattle production,1,0.002172,Cattle Production,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cattle production,2,0.002472,Cattle Production,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cattle production,3,0.002081,Cattle Production,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cattle production,4,0.002281,Cattle Production,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cattle production,5,0.002143,Cattle Production,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cattle production,1,0.001137,Cattle Production,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cattle production,2,0.001119,Cattle Production,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cattle production,3,0.001297,Cattle Production,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cattle production,4,0.001196,Cattle Production,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cattle production,5,0.00111,Cattle Production,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cattle production,1,0.001663,Cattle Production,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cattle production,2,0.001582,Cattle Production,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cattle production,3,0.001585,Cattle Production,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cattle production,4,0.001782,Cattle Production,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cattle production,5,0.001498,Cattle Production,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cattle production,1,0.001097,Cattle Production,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cattle production,2,0.001263,Cattle Production,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cattle production,3,0.001264,Cattle Production,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cattle production,4,0.001344,Cattle Production,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cattle production,5,0.001268,Cattle Production,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cattle production,1,0.001474,Cattle Production,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cattle production,2,0.002926,Cattle Production,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cattle production,3,0.002398,Cattle Production,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cattle production,4,0.00262,Cattle Production,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cattle production,5,0.002312,Cattle Production,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cocoa harvested area,1,5.78E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cocoa harvested area,2,7.31E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cocoa harvested area,3,9.85E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cocoa harvested area,4,6.64E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cocoa harvested area,5,8.10E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cocoa harvested area,1,0,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cocoa harvested area,2,0,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cocoa harvested area,3,0,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cocoa harvested area,4,0,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cocoa harvested area,5,0,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cocoa harvested area,1,5.13E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cocoa harvested area,2,9.26E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cocoa harvested area,3,6.73E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cocoa harvested area,4,7.52E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cocoa harvested area,5,5.03E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cocoa harvested area,1,7.00E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cocoa harvested area,2,7.86E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cocoa harvested area,3,5.81E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cocoa harvested area,4,6.90E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cocoa harvested area,5,4.39E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cocoa harvested area,1,4.70E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cocoa harvested area,2,4.65E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cocoa harvested area,3,5.74E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cocoa harvested area,4,5.37E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cocoa harvested area,5,4.90E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cocoa harvested area,1,8.51E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cocoa harvested area,2,9.30E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cocoa harvested area,3,9.51E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cocoa harvested area,4,9.26E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cocoa harvested area,5,7.75E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cocoa harvested area,1,9.41E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cocoa harvested area,2,9.26E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cocoa harvested area,3,7.26E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cocoa harvested area,4,6.85E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cocoa harvested area,5,9.40E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cocoa harvested area,1,5.80E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cocoa harvested area,2,4.53E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cocoa harvested area,3,4.86E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cocoa harvested area,4,5.60E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cocoa harvested area,5,6.12E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cocoa harvested area,1,0.001064,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cocoa harvested area,2,0.001151,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cocoa harvested area,3,0.001164,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cocoa harvested area,4,0.001042,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cocoa harvested area,5,0.001131,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cocoa harvested area,1,0,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cocoa harvested area,2,0,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cocoa harvested area,3,0,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cocoa harvested area,4,0,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cocoa harvested area,5,0,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cocoa harvested area,1,6.48E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cocoa harvested area,2,6.95E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cocoa harvested area,3,5.05E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cocoa harvested area,4,7.19E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cocoa harvested area,5,5.84E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cocoa harvested area,1,8.70E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cocoa harvested area,2,9.94E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cocoa harvested area,3,9.18E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cocoa harvested area,4,8.41E-04,Cocoa Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cocoa harvested area,5,9.25E-04,Cocoa Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cocoa harvested area,1,0.002639,Cocoa Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cocoa harvested area,2,0.002572,Cocoa Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cocoa harvested area,3,0.003029,Cocoa Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cocoa harvested area,4,0.003217,Cocoa Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cocoa harvested area,5,0.003145,Cocoa Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,coffee harvested area,1,0.003156,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,coffee harvested area,2,0.003905,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,coffee harvested area,3,0.002881,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,coffee harvested area,4,0.002439,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,coffee harvested area,5,0.00333,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,coffee harvested area,1,4.90E-05,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,coffee harvested area,2,5.20E-05,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,coffee harvested area,3,4.70E-05,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,coffee harvested area,4,5.60E-05,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,coffee harvested area,5,6.00E-05,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,coffee harvested area,1,0.009748,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,coffee harvested area,2,0.009225,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,coffee harvested area,3,0.004892,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,coffee harvested area,4,0.008182,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,coffee harvested area,5,0.01162,Coffee Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,coffee harvested area,1,0.005345,Coffee Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,coffee harvested area,2,0.005897,Coffee Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,coffee harvested area,3,0.005096,Coffee Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,coffee harvested area,4,0.004299,Coffee Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,coffee harvested area,5,0.006668,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,coffee harvested area,1,0.002202,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,coffee harvested area,2,0.002957,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,coffee harvested area,3,0.002613,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,coffee harvested area,4,0.002555,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,coffee harvested area,5,0.002191,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,coffee harvested area,1,8.46E-04,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,coffee harvested area,2,9.38E-04,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,coffee harvested area,3,9.16E-04,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,coffee harvested area,4,8.90E-04,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,coffee harvested area,5,9.56E-04,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,coffee harvested area,1,0.002238,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,coffee harvested area,2,0.002014,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,coffee harvested area,3,0.002379,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,coffee harvested area,4,0.002051,Coffee Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,coffee harvested area,5,0.002444,Coffee Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,coffee harvested area,1,0.002641,Coffee Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,coffee harvested area,2,0.002512,Coffee Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,coffee harvested area,3,0.002316,Coffee Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,coffee harvested area,4,0.002767,Coffee Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,coffee harvested area,5,0.003167,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,coffee harvested area,1,0.00125,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,coffee harvested area,2,0.001228,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,coffee harvested area,3,0.00113,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,coffee harvested area,4,0.001206,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,coffee harvested area,5,0.001199,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,coffee harvested area,1,8.72E-04,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,coffee harvested area,2,0.001043,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,coffee harvested area,3,0.001243,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,coffee harvested area,4,0.001132,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,coffee harvested area,5,9.88E-04,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,coffee harvested area,1,0.001119,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,coffee harvested area,2,0.001418,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,coffee harvested area,3,0.001275,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,coffee harvested area,4,0.001177,Coffee Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,coffee harvested area,5,0.001341,Coffee Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,coffee harvested area,1,0.001382,Coffee Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,coffee harvested area,2,0.001687,Coffee Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,coffee harvested area,3,0.001321,Coffee Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,coffee harvested area,4,0.001506,Coffee Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,coffee harvested area,5,0.001686,Coffee Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,coffee harvested area,1,0.008131,Coffee Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,coffee harvested area,2,0.006222,Coffee Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,coffee harvested area,3,0.007732,Coffee Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,coffee harvested area,4,0.006623,Coffee Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,coffee harvested area,5,0.009094,Coffee Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cropland natural vegetation ,1,0.004726,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cropland natural vegetation ,2,0.005827,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cropland natural vegetation ,3,0.00446,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cropland natural vegetation ,4,0.005382,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,cropland natural vegetation ,5,0.005656,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cropland natural vegetation ,1,0.02701,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cropland natural vegetation ,2,0.023298,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cropland natural vegetation ,3,0.021701,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cropland natural vegetation ,4,0.024672,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,cropland natural vegetation ,5,0.021341,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cropland natural vegetation ,1,0.005339,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cropland natural vegetation ,2,0.005351,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cropland natural vegetation ,3,0.005273,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cropland natural vegetation ,4,0.004843,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,cropland natural vegetation ,5,0.004829,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cropland natural vegetation ,1,0.008805,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cropland natural vegetation ,2,0.008409,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cropland natural vegetation ,3,0.00698,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cropland natural vegetation ,4,0.008285,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,cropland natural vegetation ,5,0.009943,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cropland natural vegetation ,1,0.001908,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cropland natural vegetation ,2,0.001946,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cropland natural vegetation ,3,0.002083,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cropland natural vegetation ,4,0.00208,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,cropland natural vegetation ,5,0.002391,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cropland natural vegetation ,1,0.007381,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cropland natural vegetation ,2,0.006788,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cropland natural vegetation ,3,0.006745,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cropland natural vegetation ,4,0.007044,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,cropland natural vegetation ,5,0.006916,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cropland natural vegetation ,1,0.001881,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cropland natural vegetation ,2,0.001904,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cropland natural vegetation ,3,0.001587,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cropland natural vegetation ,4,0.001776,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,cropland natural vegetation ,5,0.001936,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cropland natural vegetation ,1,0.002763,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cropland natural vegetation ,2,0.002892,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cropland natural vegetation ,3,0.002553,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cropland natural vegetation ,4,0.002668,Cropland Natural Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,cropland natural vegetation ,5,0.002414,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cropland natural vegetation ,1,0.00437,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cropland natural vegetation ,2,0.003763,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cropland natural vegetation ,3,0.004246,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cropland natural vegetation ,4,0.004348,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,cropland natural vegetation ,5,0.003824,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cropland natural vegetation ,1,0.005291,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cropland natural vegetation ,2,0.005397,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cropland natural vegetation ,3,0.005017,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cropland natural vegetation ,4,0.004839,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,cropland natural vegetation ,5,0.004207,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cropland natural vegetation ,1,0.005125,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cropland natural vegetation ,2,0.004688,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cropland natural vegetation ,3,0.00516,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cropland natural vegetation ,4,0.005696,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,cropland natural vegetation ,5,0.00479,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cropland natural vegetation ,1,0.006423,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cropland natural vegetation ,2,0.005796,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cropland natural vegetation ,3,0.005645,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cropland natural vegetation ,4,0.006614,Cropland Natural Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,cropland natural vegetation ,5,0.005857,Cropland Natural Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cropland natural vegetation ,1,0.004171,Cropland Natural Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cropland natural vegetation ,2,0.004276,Cropland Natural Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cropland natural vegetation ,3,0.003791,Cropland Natural Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cropland natural vegetation ,4,0.004193,Cropland Natural Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,cropland natural vegetation ,5,0.003284,Cropland Natural Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Croplands ,1,2.51E-04,Croplands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Croplands ,2,2.84E-04,Croplands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Croplands ,3,3.19E-04,Croplands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Croplands ,4,2.81E-04,Croplands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Croplands ,5,2.58E-04,Croplands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Croplands ,1,1.82E-04,Croplands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Croplands ,2,1.82E-04,Croplands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Croplands ,3,1.68E-04,Croplands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Croplands ,4,1.84E-04,Croplands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Croplands ,5,1.64E-04,Croplands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Croplands ,1,1.45E-04,Croplands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Croplands ,2,1.37E-04,Croplands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Croplands ,3,1.43E-04,Croplands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Croplands ,4,1.10E-04,Croplands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Croplands ,5,1.47E-04,Croplands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Croplands ,1,3.40E-04,Croplands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Croplands ,2,2.93E-04,Croplands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Croplands ,3,3.30E-04,Croplands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Croplands ,4,3.70E-04,Croplands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Croplands ,5,3.95E-04,Croplands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Croplands ,1,0.001104,Croplands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Croplands ,2,0.001254,Croplands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Croplands ,3,0.001175,Croplands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Croplands ,4,0.001218,Croplands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Croplands ,5,0.001067,Croplands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Croplands ,1,0.00119,Croplands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Croplands ,2,0.001021,Croplands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Croplands ,3,9.12E-04,Croplands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Croplands ,4,9.79E-04,Croplands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Croplands ,5,0.001002,Croplands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Croplands ,1,8.87E-04,Croplands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Croplands ,2,9.11E-04,Croplands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Croplands ,3,8.85E-04,Croplands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Croplands ,4,9.61E-04,Croplands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Croplands ,5,9.09E-04,Croplands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Croplands ,1,9.03E-04,Croplands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Croplands ,2,9.47E-04,Croplands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Croplands ,3,8.92E-04,Croplands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Croplands ,4,8.94E-04,Croplands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Croplands ,5,9.13E-04,Croplands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Croplands ,1,0.001652,Croplands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Croplands ,2,0.001499,Croplands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Croplands ,3,0.001554,Croplands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Croplands ,4,0.001555,Croplands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Croplands ,5,0.00143,Croplands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Croplands ,1,8.50E-04,Croplands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Croplands ,2,0.001046,Croplands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Croplands ,3,0.001154,Croplands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Croplands ,4,0.001255,Croplands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Croplands ,5,9.35E-04,Croplands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Croplands ,1,0.001169,Croplands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Croplands ,2,0.001218,Croplands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Croplands ,3,0.001264,Croplands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Croplands ,4,0.001381,Croplands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Croplands ,5,0.001295,Croplands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Croplands ,1,0.0011,Croplands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Croplands ,2,0.001026,Croplands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Croplands ,3,0.001247,Croplands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Croplands ,4,0.001124,Croplands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Croplands ,5,0.001103,Croplands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Croplands ,1,1.91E-04,Croplands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Croplands ,2,1.64E-04,Croplands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Croplands ,3,2.04E-04,Croplands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Croplands ,4,2.14E-04,Croplands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Croplands ,5,2.12E-04,Croplands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,deciduous broadleaf trees ,1,4.89E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,deciduous broadleaf trees ,2,4.86E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,deciduous broadleaf trees ,3,4.47E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,deciduous broadleaf trees ,4,4.42E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,deciduous broadleaf trees ,5,5.02E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,deciduous broadleaf trees ,1,4.99E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,deciduous broadleaf trees ,2,5.68E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,deciduous broadleaf trees ,3,5.04E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,deciduous broadleaf trees ,4,5.42E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,deciduous broadleaf trees ,5,5.06E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,deciduous broadleaf trees ,1,6.12E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,deciduous broadleaf trees ,2,5.44E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,deciduous broadleaf trees ,3,5.73E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,deciduous broadleaf trees ,4,6.00E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,deciduous broadleaf trees ,5,5.40E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,deciduous broadleaf trees ,1,0.001063,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,deciduous broadleaf trees ,2,0.001107,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,deciduous broadleaf trees ,3,0.00112,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,deciduous broadleaf trees ,4,9.57E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,deciduous broadleaf trees ,5,0.001154,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,deciduous broadleaf trees ,1,0.001498,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,deciduous broadleaf trees ,2,0.00165,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,deciduous broadleaf trees ,3,0.001404,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,deciduous broadleaf trees ,4,0.001645,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,deciduous broadleaf trees ,5,0.001551,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,deciduous broadleaf trees ,1,8.43E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,deciduous broadleaf trees ,2,8.38E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,deciduous broadleaf trees ,3,0.001094,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,deciduous broadleaf trees ,4,9.18E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,deciduous broadleaf trees ,5,8.17E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,deciduous broadleaf trees ,1,0.001322,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,deciduous broadleaf trees ,2,0.001333,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,deciduous broadleaf trees ,3,0.001338,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,deciduous broadleaf trees ,4,0.001322,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,deciduous broadleaf trees ,5,0.001364,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,deciduous broadleaf trees ,1,0.002171,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,deciduous broadleaf trees ,2,0.002226,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,deciduous broadleaf trees ,3,0.002088,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,deciduous broadleaf trees ,4,0.002138,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,deciduous broadleaf trees ,5,0.002289,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,deciduous broadleaf trees ,1,0.001133,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,deciduous broadleaf trees ,2,0.001146,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,deciduous broadleaf trees ,3,0.001023,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,deciduous broadleaf trees ,4,0.001313,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,deciduous broadleaf trees ,5,0.001329,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,deciduous broadleaf trees ,1,9.43E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,deciduous broadleaf trees ,2,8.64E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,deciduous broadleaf trees ,3,8.91E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,deciduous broadleaf trees ,4,8.31E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,deciduous broadleaf trees ,5,8.40E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,deciduous broadleaf trees ,1,0.001387,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,deciduous broadleaf trees ,2,0.001317,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,deciduous broadleaf trees ,3,0.001441,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,deciduous broadleaf trees ,4,0.00155,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,deciduous broadleaf trees ,5,0.001623,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,deciduous broadleaf trees ,1,0.002184,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,deciduous broadleaf trees ,2,0.002037,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,deciduous broadleaf trees ,3,0.002139,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,deciduous broadleaf trees ,4,0.002001,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,deciduous broadleaf trees ,5,0.002173,Deciduous Broadleaf Trees ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,deciduous broadleaf trees ,1,7.39E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,deciduous broadleaf trees ,2,8.16E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,deciduous broadleaf trees ,3,7.47E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,deciduous broadleaf trees ,4,7.27E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,deciduous broadleaf trees ,5,7.57E-04,Deciduous Broadleaf Trees ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,elevation ,1,0.001999,Elevation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,elevation ,2,0.001913,Elevation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,elevation ,3,0.001793,Elevation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,elevation ,4,0.001891,Elevation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,elevation ,5,0.001888,Elevation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,elevation ,1,5.98E-04,Elevation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,elevation ,2,7.48E-04,Elevation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,elevation ,3,5.42E-04,Elevation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,elevation ,4,7.18E-04,Elevation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,elevation ,5,7.18E-04,Elevation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,elevation ,1,0.002234,Elevation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,elevation ,2,0.002228,Elevation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,elevation ,3,0.002683,Elevation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,elevation ,4,0.002022,Elevation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,elevation ,5,0.002486,Elevation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,elevation ,1,0.001284,Elevation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,elevation ,2,0.0018,Elevation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,elevation ,3,0.001767,Elevation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,elevation ,4,0.001756,Elevation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,elevation ,5,0.001406,Elevation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,elevation ,1,0.001247,Elevation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,elevation ,2,0.001114,Elevation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,elevation ,3,0.001216,Elevation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,elevation ,4,0.001453,Elevation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,elevation ,5,0.001378,Elevation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,elevation ,1,3.68E-04,Elevation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,elevation ,2,3.78E-04,Elevation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,elevation ,3,3.29E-04,Elevation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,elevation ,4,3.90E-04,Elevation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,elevation ,5,4.28E-04,Elevation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,elevation ,1,0.002153,Elevation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,elevation ,2,0.002414,Elevation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,elevation ,3,0.001982,Elevation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,elevation ,4,0.002044,Elevation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,elevation ,5,0.002166,Elevation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,elevation ,1,0.001208,Elevation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,elevation ,2,9.89E-04,Elevation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,elevation ,3,0.001074,Elevation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,elevation ,4,9.83E-04,Elevation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,elevation ,5,0.00114,Elevation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,elevation ,1,0.001237,Elevation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,elevation ,2,0.001185,Elevation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,elevation ,3,0.001288,Elevation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,elevation ,4,0.001296,Elevation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,elevation ,5,0.001106,Elevation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,elevation ,1,6.22E-04,Elevation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,elevation ,2,6.05E-04,Elevation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,elevation ,3,6.66E-04,Elevation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,elevation ,4,7.20E-04,Elevation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,elevation ,5,7.51E-04,Elevation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,elevation ,1,0.001239,Elevation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,elevation ,2,0.001317,Elevation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,elevation ,3,0.001138,Elevation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,elevation ,4,0.001247,Elevation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,elevation ,5,0.001132,Elevation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,elevation ,1,7.78E-04,Elevation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,elevation ,2,7.51E-04,Elevation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,elevation ,3,7.63E-04,Elevation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,elevation ,4,7.47E-04,Elevation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,elevation ,5,5.88E-04,Elevation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,elevation ,1,0.0015,Elevation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,elevation ,2,8.92E-04,Elevation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,elevation ,3,8.95E-04,Elevation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,elevation ,4,0.001665,Elevation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,elevation ,5,0.001625,Elevation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forest loss,1,0.001377,Forest Loss,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forest loss,2,0.001356,Forest Loss,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forest loss,3,0.00143,Forest Loss,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forest loss,4,0.001406,Forest Loss,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forest loss,5,0.001214,Forest Loss,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forest loss,1,8.62E-04,Forest Loss,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forest loss,2,7.50E-04,Forest Loss,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forest loss,3,6.79E-04,Forest Loss,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forest loss,4,7.33E-04,Forest Loss,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forest loss,5,7.69E-04,Forest Loss,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forest loss,1,0.004516,Forest Loss,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forest loss,2,0.00468,Forest Loss,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forest loss,3,0.004831,Forest Loss,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forest loss,4,0.004119,Forest Loss,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forest loss,5,0.004752,Forest Loss,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forest loss,1,9.25E-04,Forest Loss,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forest loss,2,0.001009,Forest Loss,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forest loss,3,9.43E-04,Forest Loss,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forest loss,4,9.39E-04,Forest Loss,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forest loss,5,9.36E-04,Forest Loss,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forest loss,1,0.002047,Forest Loss,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forest loss,2,0.002004,Forest Loss,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forest loss,3,0.002264,Forest Loss,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forest loss,4,0.002022,Forest Loss,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forest loss,5,0.001871,Forest Loss,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forest loss,1,0.001441,Forest Loss,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forest loss,2,0.001534,Forest Loss,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forest loss,3,0.001637,Forest Loss,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forest loss,4,0.001692,Forest Loss,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forest loss,5,0.001379,Forest Loss,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forest loss,1,0.006011,Forest Loss,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forest loss,2,0.004838,Forest Loss,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forest loss,3,0.005435,Forest Loss,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forest loss,4,0.005462,Forest Loss,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forest loss,5,0.005418,Forest Loss,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forest loss,1,0.001641,Forest Loss,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forest loss,2,0.001883,Forest Loss,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forest loss,3,0.001786,Forest Loss,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forest loss,4,0.001966,Forest Loss,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forest loss,5,0.001772,Forest Loss,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forest loss,1,0.003615,Forest Loss,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forest loss,2,0.004195,Forest Loss,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forest loss,3,0.003587,Forest Loss,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forest loss,4,0.003969,Forest Loss,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forest loss,5,0.003867,Forest Loss,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forest loss,1,0.001699,Forest Loss,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forest loss,2,0.001382,Forest Loss,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forest loss,3,0.001506,Forest Loss,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forest loss,4,0.001413,Forest Loss,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forest loss,5,0.001707,Forest Loss,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forest loss,1,0.006556,Forest Loss,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forest loss,2,0.005808,Forest Loss,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forest loss,3,0.005651,Forest Loss,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forest loss,4,0.006301,Forest Loss,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forest loss,5,0.005882,Forest Loss,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forest loss,1,0.004694,Forest Loss,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forest loss,2,0.004481,Forest Loss,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forest loss,3,0.003998,Forest Loss,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forest loss,4,0.004324,Forest Loss,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forest loss,5,0.004362,Forest Loss,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forest loss,1,0.001174,Forest Loss,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forest loss,2,0.001257,Forest Loss,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forest loss,3,0.001182,Forest Loss,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forest loss,4,0.001183,Forest Loss,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forest loss,5,0.00115,Forest Loss,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forests evergreen broadleaf ,1,0.00159,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forests evergreen broadleaf ,2,0.001242,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forests evergreen broadleaf ,3,0.001625,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forests evergreen broadleaf ,4,0.001601,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Forests evergreen broadleaf ,5,0.001525,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forests evergreen broadleaf ,1,0.002211,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forests evergreen broadleaf ,2,0.002271,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forests evergreen broadleaf ,3,0.001969,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forests evergreen broadleaf ,4,0.002291,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Forests evergreen broadleaf ,5,0.002057,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forests evergreen broadleaf ,1,7.32E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forests evergreen broadleaf ,2,8.81E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forests evergreen broadleaf ,3,7.59E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forests evergreen broadleaf ,4,7.40E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Forests evergreen broadleaf ,5,8.10E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forests evergreen broadleaf ,1,9.10E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forests evergreen broadleaf ,2,9.07E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forests evergreen broadleaf ,3,8.78E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forests evergreen broadleaf ,4,9.40E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Forests evergreen broadleaf ,5,7.12E-04,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forests evergreen broadleaf ,1,0.004985,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forests evergreen broadleaf ,2,0.004603,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forests evergreen broadleaf ,3,0.004158,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forests evergreen broadleaf ,4,0.004284,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Forests evergreen broadleaf ,5,0.004825,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forests evergreen broadleaf ,1,0.00198,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forests evergreen broadleaf ,2,0.001717,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forests evergreen broadleaf ,3,0.001981,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forests evergreen broadleaf ,4,0.001818,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Forests evergreen broadleaf ,5,0.002062,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forests evergreen broadleaf ,1,0.002699,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forests evergreen broadleaf ,2,0.002805,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forests evergreen broadleaf ,3,0.002776,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forests evergreen broadleaf ,4,0.002593,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Forests evergreen broadleaf ,5,0.002748,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forests evergreen broadleaf ,1,0.004865,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forests evergreen broadleaf ,2,0.004794,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forests evergreen broadleaf ,3,0.005167,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forests evergreen broadleaf ,4,0.004497,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Forests evergreen broadleaf ,5,0.005185,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forests evergreen broadleaf ,1,0.002244,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forests evergreen broadleaf ,2,0.002406,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forests evergreen broadleaf ,3,0.002062,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forests evergreen broadleaf ,4,0.002312,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Forests evergreen broadleaf ,5,0.002142,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forests evergreen broadleaf ,1,0.005171,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forests evergreen broadleaf ,2,0.006306,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forests evergreen broadleaf ,3,0.005812,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forests evergreen broadleaf ,4,0.005836,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Forests evergreen broadleaf ,5,0.005885,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forests evergreen broadleaf ,1,0.002572,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forests evergreen broadleaf ,2,0.00279,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forests evergreen broadleaf ,3,0.003042,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forests evergreen broadleaf ,4,0.003334,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Forests evergreen broadleaf ,5,0.002901,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forests evergreen broadleaf ,1,0.002252,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forests evergreen broadleaf ,2,0.002187,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forests evergreen broadleaf ,3,0.002088,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forests evergreen broadleaf ,4,0.001983,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Forests evergreen broadleaf ,5,0.002033,Forests Evergreen Broadleaf ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forests evergreen broadleaf ,1,0.001284,Forests Evergreen Broadleaf ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forests evergreen broadleaf ,2,0.001284,Forests Evergreen Broadleaf ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forests evergreen broadleaf ,3,0.001374,Forests Evergreen Broadleaf ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forests evergreen broadleaf ,4,0.001324,Forests Evergreen Broadleaf ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,Forests evergreen broadleaf ,5,0.001318,Forests Evergreen Broadleaf ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,grasslands ,1,2.55E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,grasslands ,2,2.83E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,grasslands ,3,2.79E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,grasslands ,4,3.06E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,grasslands ,5,3.51E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,grasslands ,1,5.70E-05,Grasslands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,grasslands ,2,4.60E-05,Grasslands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,grasslands ,3,5.30E-05,Grasslands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,grasslands ,4,4.30E-05,Grasslands ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,grasslands ,5,4.90E-05,Grasslands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,grasslands ,1,3.04E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,grasslands ,2,3.08E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,grasslands ,3,3.22E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,grasslands ,4,3.40E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,grasslands ,5,3.27E-04,Grasslands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,grasslands ,1,2.17E-04,Grasslands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,grasslands ,2,2.21E-04,Grasslands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,grasslands ,3,1.97E-04,Grasslands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,grasslands ,4,1.90E-04,Grasslands ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,grasslands ,5,1.76E-04,Grasslands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,grasslands ,1,0.001864,Grasslands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,grasslands ,2,0.001724,Grasslands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,grasslands ,3,0.001512,Grasslands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,grasslands ,4,0.001962,Grasslands ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,grasslands ,5,0.001602,Grasslands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,grasslands ,1,0.001094,Grasslands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,grasslands ,2,0.001207,Grasslands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,grasslands ,3,0.001439,Grasslands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,grasslands ,4,0.001195,Grasslands ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,grasslands ,5,0.001132,Grasslands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,grasslands ,1,0.001149,Grasslands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,grasslands ,2,0.001477,Grasslands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,grasslands ,3,0.001581,Grasslands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,grasslands ,4,0.001546,Grasslands ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,grasslands ,5,0.001402,Grasslands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,grasslands ,1,0.001738,Grasslands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,grasslands ,2,0.001899,Grasslands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,grasslands ,3,0.001823,Grasslands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,grasslands ,4,0.001563,Grasslands ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,grasslands ,5,0.001864,Grasslands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,grasslands ,1,0.001185,Grasslands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,grasslands ,2,9.70E-04,Grasslands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,grasslands ,3,0.001021,Grasslands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,grasslands ,4,0.00122,Grasslands ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,grasslands ,5,0.001107,Grasslands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,grasslands ,1,0.001659,Grasslands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,grasslands ,2,0.001311,Grasslands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,grasslands ,3,0.001546,Grasslands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,grasslands ,4,0.001512,Grasslands ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,grasslands ,5,0.001657,Grasslands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,grasslands ,1,0.003896,Grasslands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,grasslands ,2,0.004812,Grasslands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,grasslands ,3,0.004458,Grasslands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,grasslands ,4,0.00494,Grasslands ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,grasslands ,5,0.004265,Grasslands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,grasslands ,1,0.001108,Grasslands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,grasslands ,2,9.96E-04,Grasslands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,grasslands ,3,0.001027,Grasslands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,grasslands ,4,9.64E-04,Grasslands ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,grasslands ,5,0.001124,Grasslands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,grasslands ,1,2.79E-04,Grasslands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,grasslands ,2,2.55E-04,Grasslands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,grasslands ,3,2.33E-04,Grasslands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,grasslands ,4,2.57E-04,Grasslands ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,grasslands ,5,2.49E-04,Grasslands ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,herbaceous vegetation ,1,0.00151,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,herbaceous vegetation ,2,0.001313,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,herbaceous vegetation ,3,0.001601,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,herbaceous vegetation ,4,0.001461,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,herbaceous vegetation ,5,0.00178,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,herbaceous vegetation ,1,0.01645,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,herbaceous vegetation ,2,0.013429,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,herbaceous vegetation ,3,0.014223,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,herbaceous vegetation ,4,0.016128,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,herbaceous vegetation ,5,0.017688,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,herbaceous vegetation ,1,2.32E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,herbaceous vegetation ,2,1.37E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,herbaceous vegetation ,3,2.17E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,herbaceous vegetation ,4,2.24E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,herbaceous vegetation ,5,2.44E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,herbaceous vegetation ,1,8.36E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,herbaceous vegetation ,2,0.001087,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,herbaceous vegetation ,3,9.12E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,herbaceous vegetation ,4,9.00E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,herbaceous vegetation ,5,9.11E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,herbaceous vegetation ,1,9.20E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,herbaceous vegetation ,2,7.20E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,herbaceous vegetation ,3,7.35E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,herbaceous vegetation ,4,9.80E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,herbaceous vegetation ,5,8.67E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,herbaceous vegetation ,1,0.002978,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,herbaceous vegetation ,2,0.003455,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,herbaceous vegetation ,3,0.003252,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,herbaceous vegetation ,4,0.003282,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,herbaceous vegetation ,5,0.002786,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,herbaceous vegetation ,1,5.73E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,herbaceous vegetation ,2,6.20E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,herbaceous vegetation ,3,6.46E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,herbaceous vegetation ,4,6.08E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,herbaceous vegetation ,5,6.06E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,herbaceous vegetation ,1,8.25E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,herbaceous vegetation ,2,8.86E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,herbaceous vegetation ,3,8.33E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,herbaceous vegetation ,4,7.87E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,herbaceous vegetation ,5,7.85E-04,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,herbaceous vegetation ,1,0.001424,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,herbaceous vegetation ,2,0.001292,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,herbaceous vegetation ,3,0.001321,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,herbaceous vegetation ,4,0.001339,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,herbaceous vegetation ,5,0.001085,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,herbaceous vegetation ,1,0.006238,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,herbaceous vegetation ,2,0.005967,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,herbaceous vegetation ,3,0.007189,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,herbaceous vegetation ,4,0.007073,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,herbaceous vegetation ,5,0.00644,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,herbaceous vegetation ,1,0.001684,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,herbaceous vegetation ,2,0.001641,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,herbaceous vegetation ,3,0.001238,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,herbaceous vegetation ,4,0.001595,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,herbaceous vegetation ,5,0.00154,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,herbaceous vegetation ,1,0.001857,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,herbaceous vegetation ,2,0.002016,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,herbaceous vegetation ,3,0.001671,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,herbaceous vegetation ,4,0.001472,Herbaceous Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,herbaceous vegetation ,5,0.00186,Herbaceous Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,herbaceous vegetation ,1,0.002876,Herbaceous Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,herbaceous vegetation ,2,0.002582,Herbaceous Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,herbaceous vegetation ,3,0.002471,Herbaceous Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,herbaceous vegetation ,4,0.00251,Herbaceous Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,herbaceous vegetation ,5,0.002806,Herbaceous Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Humidity,1,0.003587,Humidity,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Humidity,2,0.003555,Humidity,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Humidity,3,0.003263,Humidity,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Humidity,4,0.003549,Humidity,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Humidity,5,0.003778,Humidity,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Humidity,1,0.006502,Humidity,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Humidity,2,0.006866,Humidity,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Humidity,3,0.006735,Humidity,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Humidity,4,0.0064,Humidity,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Humidity,5,0.006928,Humidity,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Humidity,1,0.009908,Humidity,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Humidity,2,0.010648,Humidity,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Humidity,3,0.01067,Humidity,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Humidity,4,0.011177,Humidity,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Humidity,5,0.01052,Humidity,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Humidity,1,0.011072,Humidity,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Humidity,2,0.012168,Humidity,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Humidity,3,0.011742,Humidity,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Humidity,4,0.011662,Humidity,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Humidity,5,0.011842,Humidity,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Humidity,1,0.002494,Humidity,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Humidity,2,0.003004,Humidity,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Humidity,3,0.003126,Humidity,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Humidity,4,0.003024,Humidity,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Humidity,5,0.002686,Humidity,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Humidity,1,0.002902,Humidity,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Humidity,2,0.003005,Humidity,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Humidity,3,0.003062,Humidity,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Humidity,4,0.002707,Humidity,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Humidity,5,0.002978,Humidity,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Humidity,1,0.004164,Humidity,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Humidity,2,0.004394,Humidity,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Humidity,3,0.003891,Humidity,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Humidity,4,0.004128,Humidity,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Humidity,5,0.004334,Humidity,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Humidity,1,0.005287,Humidity,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Humidity,2,0.005659,Humidity,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Humidity,3,0.005816,Humidity,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Humidity,4,0.005366,Humidity,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Humidity,5,0.004836,Humidity,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Humidity,1,0.002648,Humidity,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Humidity,2,0.002369,Humidity,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Humidity,3,0.002444,Humidity,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Humidity,4,0.001894,Humidity,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Humidity,5,0.002396,Humidity,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Humidity,1,0.002306,Humidity,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Humidity,2,0.001999,Humidity,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Humidity,3,0.002117,Humidity,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Humidity,4,0.002262,Humidity,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Humidity,5,0.002178,Humidity,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Humidity,1,0.003435,Humidity,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Humidity,2,0.003541,Humidity,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Humidity,3,0.00375,Humidity,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Humidity,4,0.004005,Humidity,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Humidity,5,0.003698,Humidity,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Humidity,1,0.002472,Humidity,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Humidity,2,0.002655,Humidity,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Humidity,3,0.002591,Humidity,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Humidity,4,0.002509,Humidity,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Humidity,5,0.002619,Humidity,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Humidity,1,0.008656,Humidity,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Humidity,2,0.008337,Humidity,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Humidity,3,0.007481,Humidity,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Humidity,4,0.007752,Humidity,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Humidity,5,0.007522,Humidity,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,maize harvested area,1,2.90E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,maize harvested area,2,2.88E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,maize harvested area,3,3.18E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,maize harvested area,4,3.22E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,maize harvested area,5,3.00E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,maize harvested area,1,5.00E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,maize harvested area,2,5.31E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,maize harvested area,3,4.61E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,maize harvested area,4,4.81E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,maize harvested area,5,5.12E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,maize harvested area,1,2.40E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,maize harvested area,2,2.34E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,maize harvested area,3,2.17E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,maize harvested area,4,2.83E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,maize harvested area,5,2.87E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,maize harvested area,1,2.80E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,maize harvested area,2,2.38E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,maize harvested area,3,2.64E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,maize harvested area,4,3.43E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,maize harvested area,5,2.90E-04,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,maize harvested area,1,0.001519,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,maize harvested area,2,0.001507,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,maize harvested area,3,0.001598,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,maize harvested area,4,0.001426,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,maize harvested area,5,0.00157,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,maize harvested area,1,0.002623,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,maize harvested area,2,0.002525,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,maize harvested area,3,0.002427,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,maize harvested area,4,0.002722,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,maize harvested area,5,0.002569,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,maize harvested area,1,0.002037,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,maize harvested area,2,0.001999,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,maize harvested area,3,0.002003,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,maize harvested area,4,0.001914,Maize Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,maize harvested area,5,0.001995,Maize Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,maize harvested area,1,0.002008,Maize Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,maize harvested area,2,0.001968,Maize Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,maize harvested area,3,0.001788,Maize Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,maize harvested area,4,0.001835,Maize Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,maize harvested area,5,0.001857,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,maize harvested area,1,0.002174,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,maize harvested area,2,0.002296,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,maize harvested area,3,0.002449,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,maize harvested area,4,0.002237,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,maize harvested area,5,0.002031,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,maize harvested area,1,0.001486,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,maize harvested area,2,0.001506,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,maize harvested area,3,0.00166,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,maize harvested area,4,0.001513,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,maize harvested area,5,0.001446,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,maize harvested area,1,0.001381,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,maize harvested area,2,0.001441,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,maize harvested area,3,0.00124,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,maize harvested area,4,0.001359,Maize Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,maize harvested area,5,0.001541,Maize Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,maize harvested area,1,0.001162,Maize Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,maize harvested area,2,0.001426,Maize Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,maize harvested area,3,0.001353,Maize Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,maize harvested area,4,0.001224,Maize Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,maize harvested area,5,0.001324,Maize Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,maize harvested area,1,5.55E-04,Maize Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,maize harvested area,2,5.06E-04,Maize Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,maize harvested area,3,4.40E-04,Maize Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,maize harvested area,4,4.83E-04,Maize Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,maize harvested area,5,4.95E-04,Maize Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Maximum Temperature,1,0.003511,Maximum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Maximum Temperature,2,0.002862,Maximum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Maximum Temperature,3,0.003084,Maximum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Maximum Temperature,4,0.003142,Maximum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Maximum Temperature,5,0.003004,Maximum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Maximum Temperature,1,0.001271,Maximum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Maximum Temperature,2,0.001193,Maximum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Maximum Temperature,3,0.001602,Maximum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Maximum Temperature,4,0.001299,Maximum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Maximum Temperature,5,0.001105,Maximum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Maximum Temperature,1,6.31E-04,Maximum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Maximum Temperature,2,7.37E-04,Maximum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Maximum Temperature,3,6.68E-04,Maximum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Maximum Temperature,4,6.89E-04,Maximum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Maximum Temperature,5,7.93E-04,Maximum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Maximum Temperature,1,0.002164,Maximum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Maximum Temperature,2,0.002409,Maximum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Maximum Temperature,3,0.002349,Maximum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Maximum Temperature,4,0.001794,Maximum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Maximum Temperature,5,0.00234,Maximum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Maximum Temperature,1,0.003091,Maximum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Maximum Temperature,2,0.003174,Maximum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Maximum Temperature,3,0.002893,Maximum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Maximum Temperature,4,0.003162,Maximum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Maximum Temperature,5,0.003269,Maximum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Maximum Temperature,1,0.001804,Maximum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Maximum Temperature,2,0.002178,Maximum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Maximum Temperature,3,0.001789,Maximum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Maximum Temperature,4,0.001919,Maximum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Maximum Temperature,5,0.001906,Maximum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Maximum Temperature,1,0.002239,Maximum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Maximum Temperature,2,0.002097,Maximum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Maximum Temperature,3,0.002205,Maximum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Maximum Temperature,4,0.002148,Maximum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Maximum Temperature,5,0.002188,Maximum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Maximum Temperature,1,0.002341,Maximum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Maximum Temperature,2,0.002464,Maximum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Maximum Temperature,3,0.00239,Maximum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Maximum Temperature,4,0.002258,Maximum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Maximum Temperature,5,0.002362,Maximum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Maximum Temperature,1,0.004911,Maximum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Maximum Temperature,2,0.004765,Maximum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Maximum Temperature,3,0.004734,Maximum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Maximum Temperature,4,0.004961,Maximum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Maximum Temperature,5,0.004834,Maximum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Maximum Temperature,1,0.003459,Maximum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Maximum Temperature,2,0.003465,Maximum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Maximum Temperature,3,0.003775,Maximum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Maximum Temperature,4,0.003719,Maximum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Maximum Temperature,5,0.003925,Maximum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Maximum Temperature,1,0.003171,Maximum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Maximum Temperature,2,0.002921,Maximum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Maximum Temperature,3,0.003118,Maximum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Maximum Temperature,4,0.003034,Maximum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Maximum Temperature,5,0.003343,Maximum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Maximum Temperature,1,0.002138,Maximum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Maximum Temperature,2,0.00212,Maximum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Maximum Temperature,3,0.002135,Maximum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Maximum Temperature,4,0.001921,Maximum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Maximum Temperature,5,0.002014,Maximum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Maximum Temperature,1,0.00243,Maximum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Maximum Temperature,2,0.001911,Maximum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Maximum Temperature,3,0.001821,Maximum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Maximum Temperature,4,0.00227,Maximum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Maximum Temperature,5,0.002185,Maximum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Minimum Temperature,1,0.007487,Minimum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Minimum Temperature,2,0.006848,Minimum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Minimum Temperature,3,0.006948,Minimum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Minimum Temperature,4,0.007627,Minimum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Minimum Temperature,5,0.00767,Minimum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Minimum Temperature,1,5.58E-04,Minimum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Minimum Temperature,2,6.10E-04,Minimum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Minimum Temperature,3,5.96E-04,Minimum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Minimum Temperature,4,5.37E-04,Minimum Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Minimum Temperature,5,6.44E-04,Minimum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Minimum Temperature,1,0.001916,Minimum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Minimum Temperature,2,0.002186,Minimum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Minimum Temperature,3,0.002664,Minimum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Minimum Temperature,4,0.002539,Minimum Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Minimum Temperature,5,0.002231,Minimum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Minimum Temperature,1,0.00676,Minimum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Minimum Temperature,2,0.006867,Minimum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Minimum Temperature,3,0.00636,Minimum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Minimum Temperature,4,0.005838,Minimum Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Minimum Temperature,5,0.006045,Minimum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Minimum Temperature,1,0.002113,Minimum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Minimum Temperature,2,0.002111,Minimum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Minimum Temperature,3,0.002143,Minimum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Minimum Temperature,4,0.001929,Minimum Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Minimum Temperature,5,0.00201,Minimum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Minimum Temperature,1,6.13E-04,Minimum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Minimum Temperature,2,6.52E-04,Minimum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Minimum Temperature,3,6.22E-04,Minimum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Minimum Temperature,4,6.30E-04,Minimum Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Minimum Temperature,5,5.56E-04,Minimum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Minimum Temperature,1,0.00141,Minimum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Minimum Temperature,2,0.001442,Minimum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Minimum Temperature,3,0.001285,Minimum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Minimum Temperature,4,0.001355,Minimum Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Minimum Temperature,5,0.001466,Minimum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Minimum Temperature,1,0.00176,Minimum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Minimum Temperature,2,0.001652,Minimum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Minimum Temperature,3,0.001673,Minimum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Minimum Temperature,4,0.001598,Minimum Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Minimum Temperature,5,0.001769,Minimum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Minimum Temperature,1,0.001702,Minimum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Minimum Temperature,2,0.002021,Minimum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Minimum Temperature,3,0.001987,Minimum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Minimum Temperature,4,0.001943,Minimum Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Minimum Temperature,5,0.001877,Minimum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Minimum Temperature,1,4.54E-04,Minimum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Minimum Temperature,2,4.77E-04,Minimum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Minimum Temperature,3,4.66E-04,Minimum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Minimum Temperature,4,4.83E-04,Minimum Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Minimum Temperature,5,4.88E-04,Minimum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Minimum Temperature,1,0.001776,Minimum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Minimum Temperature,2,0.001761,Minimum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Minimum Temperature,3,0.001658,Minimum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Minimum Temperature,4,0.001672,Minimum Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Minimum Temperature,5,0.001675,Minimum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Minimum Temperature,1,0.001527,Minimum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Minimum Temperature,2,0.001835,Minimum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Minimum Temperature,3,0.001856,Minimum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Minimum Temperature,4,0.00164,Minimum Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Minimum Temperature,5,0.001643,Minimum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Minimum Temperature,1,0.009815,Minimum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Minimum Temperature,2,0.010901,Minimum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Minimum Temperature,3,0.009925,Minimum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Minimum Temperature,4,0.010061,Minimum Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Minimum Temperature,5,0.011046,Minimum Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,regularly flooded vegetation ,1,0.002201,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,regularly flooded vegetation ,2,0.002022,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,regularly flooded vegetation ,3,0.002054,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,regularly flooded vegetation ,4,0.002065,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,regularly flooded vegetation ,5,0.002323,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,regularly flooded vegetation ,1,4.61E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,regularly flooded vegetation ,2,4.17E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,regularly flooded vegetation ,3,3.89E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,regularly flooded vegetation ,4,3.94E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,regularly flooded vegetation ,5,4.24E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,regularly flooded vegetation ,1,8.88E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,regularly flooded vegetation ,2,0.00102,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,regularly flooded vegetation ,3,0.001068,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,regularly flooded vegetation ,4,0.001207,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,regularly flooded vegetation ,5,0.00106,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,regularly flooded vegetation ,1,0.001787,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,regularly flooded vegetation ,2,0.001933,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,regularly flooded vegetation ,3,0.001586,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,regularly flooded vegetation ,4,0.001944,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,regularly flooded vegetation ,5,0.001629,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,regularly flooded vegetation ,1,0.00472,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,regularly flooded vegetation ,2,0.004444,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,regularly flooded vegetation ,3,0.00424,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,regularly flooded vegetation ,4,0.003879,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,regularly flooded vegetation ,5,0.004815,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,regularly flooded vegetation ,1,0.00235,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,regularly flooded vegetation ,2,0.002214,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,regularly flooded vegetation ,3,0.002655,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,regularly flooded vegetation ,4,0.002494,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,regularly flooded vegetation ,5,0.002393,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,regularly flooded vegetation ,1,0.005315,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,regularly flooded vegetation ,2,0.004906,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,regularly flooded vegetation ,3,0.004592,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,regularly flooded vegetation ,4,0.004865,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,regularly flooded vegetation ,5,0.00542,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,regularly flooded vegetation ,1,0.004025,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,regularly flooded vegetation ,2,0.003927,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,regularly flooded vegetation ,3,0.004335,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,regularly flooded vegetation ,4,0.003474,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,regularly flooded vegetation ,5,0.004027,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,regularly flooded vegetation ,1,0.003699,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,regularly flooded vegetation ,2,0.003762,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,regularly flooded vegetation ,3,0.003223,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,regularly flooded vegetation ,4,0.004326,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,regularly flooded vegetation ,5,0.003961,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,regularly flooded vegetation ,1,0.002708,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,regularly flooded vegetation ,2,0.002748,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,regularly flooded vegetation ,3,0.003074,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,regularly flooded vegetation ,4,0.002978,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,regularly flooded vegetation ,5,0.003121,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,regularly flooded vegetation ,1,0.002356,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,regularly flooded vegetation ,2,0.002038,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,regularly flooded vegetation ,3,0.002259,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,regularly flooded vegetation ,4,0.001749,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,regularly flooded vegetation ,5,0.002396,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,regularly flooded vegetation ,1,0.002554,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,regularly flooded vegetation ,2,0.002548,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,regularly flooded vegetation ,3,0.002174,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,regularly flooded vegetation ,4,0.002616,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,regularly flooded vegetation ,5,0.002794,Regularly Flooded Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,regularly flooded vegetation ,1,7.79E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,regularly flooded vegetation ,2,8.33E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,regularly flooded vegetation ,3,7.12E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,regularly flooded vegetation ,4,7.15E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,regularly flooded vegetation ,5,7.90E-04,Regularly Flooded Vegetation ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,savannas ,1,0.001617,Savannas ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,savannas ,2,0.001589,Savannas ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,savannas ,3,0.001608,Savannas ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,savannas ,4,0.001573,Savannas ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,savannas ,5,0.001934,Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,savannas ,1,0.009645,Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,savannas ,2,0.009489,Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,savannas ,3,0.008995,Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,savannas ,4,0.010136,Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,savannas ,5,0.009575,Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,savannas ,1,0.004268,Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,savannas ,2,0.004466,Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,savannas ,3,0.005025,Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,savannas ,4,0.005537,Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,savannas ,5,0.004948,Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,savannas ,1,0.002635,Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,savannas ,2,0.002784,Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,savannas ,3,0.002492,Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,savannas ,4,0.002177,Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,savannas ,5,0.002608,Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,savannas ,1,0.002448,Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,savannas ,2,0.00245,Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,savannas ,3,0.002332,Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,savannas ,4,0.002465,Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,savannas ,5,0.002353,Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,savannas ,1,0.004592,Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,savannas ,2,0.004807,Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,savannas ,3,0.004732,Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,savannas ,4,0.004542,Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,savannas ,5,0.004332,Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,savannas ,1,0.003221,Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,savannas ,2,0.003102,Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,savannas ,3,0.002909,Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,savannas ,4,0.002936,Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,savannas ,5,0.003348,Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,savannas ,1,0.003094,Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,savannas ,2,0.00315,Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,savannas ,3,0.003242,Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,savannas ,4,0.003353,Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,savannas ,5,0.003136,Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,savannas ,1,0.004267,Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,savannas ,2,0.004311,Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,savannas ,3,0.004198,Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,savannas ,4,0.00396,Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,savannas ,5,0.004075,Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,savannas ,1,0.003243,Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,savannas ,2,0.003559,Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,savannas ,3,0.00338,Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,savannas ,4,0.003745,Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,savannas ,5,0.003353,Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,savannas ,1,0.004895,Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,savannas ,2,0.005239,Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,savannas ,3,0.0054,Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,savannas ,4,0.004715,Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,savannas ,5,0.004645,Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,savannas ,1,0.006187,Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,savannas ,2,0.006395,Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,savannas ,3,0.006218,Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,savannas ,4,0.006356,Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,savannas ,5,0.006525,Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,savannas ,1,0.004764,Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,savannas ,2,0.004655,Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,savannas ,3,0.004976,Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,savannas ,4,0.004961,Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,savannas ,5,0.004468,Savannas ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,shrublands,1,7.89E-04,Shrublands,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,shrublands,2,8.75E-04,Shrublands,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,shrublands,3,8.05E-04,Shrublands,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,shrublands,4,7.50E-04,Shrublands,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,shrublands,5,7.87E-04,Shrublands,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,shrublands,1,4.67E-04,Shrublands,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,shrublands,2,4.43E-04,Shrublands,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,shrublands,3,4.55E-04,Shrublands,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,shrublands,4,4.53E-04,Shrublands,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,shrublands,5,4.32E-04,Shrublands,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,shrublands,1,3.04E-04,Shrublands,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,shrublands,2,3.32E-04,Shrublands,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,shrublands,3,2.72E-04,Shrublands,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,shrublands,4,2.47E-04,Shrublands,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,shrublands,5,2.85E-04,Shrublands,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,shrublands,1,5.76E-04,Shrublands,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,shrublands,2,4.52E-04,Shrublands,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,shrublands,3,4.32E-04,Shrublands,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,shrublands,4,6.96E-04,Shrublands,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,shrublands,5,5.78E-04,Shrublands,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,shrublands,1,0.00276,Shrublands,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,shrublands,2,0.002393,Shrublands,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,shrublands,3,0.0024,Shrublands,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,shrublands,4,0.002716,Shrublands,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,shrublands,5,0.002558,Shrublands,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,shrublands,1,0.00318,Shrublands,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,shrublands,2,0.002792,Shrublands,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,shrublands,3,0.002903,Shrublands,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,shrublands,4,0.003126,Shrublands,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,shrublands,5,0.002775,Shrublands,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,shrublands,1,0.002123,Shrublands,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,shrublands,2,0.002346,Shrublands,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,shrublands,3,0.002208,Shrublands,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,shrublands,4,0.002363,Shrublands,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,shrublands,5,0.002233,Shrublands,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,shrublands,1,0.001697,Shrublands,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,shrublands,2,0.001661,Shrublands,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,shrublands,3,0.00176,Shrublands,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,shrublands,4,0.001854,Shrublands,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,shrublands,5,0.001689,Shrublands,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,shrublands,1,9.84E-04,Shrublands,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,shrublands,2,9.43E-04,Shrublands,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,shrublands,3,0.001099,Shrublands,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,shrublands,4,0.001098,Shrublands,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,shrublands,5,0.001042,Shrublands,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,shrublands,1,3.52E-04,Shrublands,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,shrublands,2,4.25E-04,Shrublands,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,shrublands,3,5.28E-04,Shrublands,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,shrublands,4,4.67E-04,Shrublands,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,shrublands,5,4.31E-04,Shrublands,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,shrublands,1,0.001878,Shrublands,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,shrublands,2,0.00172,Shrublands,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,shrublands,3,0.001654,Shrublands,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,shrublands,4,0.001692,Shrublands,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,shrublands,5,0.001592,Shrublands,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,shrublands,1,0.001091,Shrublands,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,shrublands,2,0.001241,Shrublands,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,shrublands,3,0.001176,Shrublands,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,shrublands,4,0.001288,Shrublands,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,shrublands,5,0.001206,Shrublands,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,shrublands,1,9.59E-04,Shrublands,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,shrublands,2,0.001077,Shrublands,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,shrublands,3,0.001142,Shrublands,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,shrublands,4,9.45E-04,Shrublands,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,shrublands,5,9.80E-04,Shrublands,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Soil Moisture,1,0.009532,Soil Moisture,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Soil Moisture,2,0.010117,Soil Moisture,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Soil Moisture,3,0.010632,Soil Moisture,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Soil Moisture,4,0.011361,Soil Moisture,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Soil Moisture,5,0.009767,Soil Moisture,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Soil Moisture,1,0.00336,Soil Moisture,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Soil Moisture,2,0.003648,Soil Moisture,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Soil Moisture,3,0.003689,Soil Moisture,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Soil Moisture,4,0.003135,Soil Moisture,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Soil Moisture,5,0.003162,Soil Moisture,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Soil Moisture,1,0.00391,Soil Moisture,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Soil Moisture,2,0.003852,Soil Moisture,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Soil Moisture,3,0.004355,Soil Moisture,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Soil Moisture,4,0.00375,Soil Moisture,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Soil Moisture,5,0.004204,Soil Moisture,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Soil Moisture,1,0.006681,Soil Moisture,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Soil Moisture,2,0.006869,Soil Moisture,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Soil Moisture,3,0.006897,Soil Moisture,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Soil Moisture,4,0.0071,Soil Moisture,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Soil Moisture,5,0.005795,Soil Moisture,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Soil Moisture,1,0.001711,Soil Moisture,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Soil Moisture,2,0.001725,Soil Moisture,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Soil Moisture,3,0.001833,Soil Moisture,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Soil Moisture,4,0.001837,Soil Moisture,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Soil Moisture,5,0.001985,Soil Moisture,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Soil Moisture,1,0.002237,Soil Moisture,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Soil Moisture,2,0.001942,Soil Moisture,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Soil Moisture,3,0.001951,Soil Moisture,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Soil Moisture,4,0.002083,Soil Moisture,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Soil Moisture,5,0.001826,Soil Moisture,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Soil Moisture,1,0.002633,Soil Moisture,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Soil Moisture,2,0.002638,Soil Moisture,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Soil Moisture,3,0.002449,Soil Moisture,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Soil Moisture,4,0.002461,Soil Moisture,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Soil Moisture,5,0.002786,Soil Moisture,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Soil Moisture,1,0.002054,Soil Moisture,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Soil Moisture,2,0.002152,Soil Moisture,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Soil Moisture,3,0.001958,Soil Moisture,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Soil Moisture,4,0.001711,Soil Moisture,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Soil Moisture,5,0.001829,Soil Moisture,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Soil Moisture,1,0.001425,Soil Moisture,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Soil Moisture,2,0.001703,Soil Moisture,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Soil Moisture,3,0.001464,Soil Moisture,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Soil Moisture,4,0.001388,Soil Moisture,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Soil Moisture,5,0.001482,Soil Moisture,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Soil Moisture,1,0.002399,Soil Moisture,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Soil Moisture,2,0.00273,Soil Moisture,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Soil Moisture,3,0.002537,Soil Moisture,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Soil Moisture,4,0.002501,Soil Moisture,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Soil Moisture,5,0.002787,Soil Moisture,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Soil Moisture,1,0.002032,Soil Moisture,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Soil Moisture,2,0.001856,Soil Moisture,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Soil Moisture,3,0.002063,Soil Moisture,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Soil Moisture,4,0.001886,Soil Moisture,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Soil Moisture,5,0.001932,Soil Moisture,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Soil Moisture,1,0.002229,Soil Moisture,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Soil Moisture,2,0.001958,Soil Moisture,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Soil Moisture,3,0.001985,Soil Moisture,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Soil Moisture,4,0.002143,Soil Moisture,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Soil Moisture,5,0.002145,Soil Moisture,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Soil Moisture,1,0.008974,Soil Moisture,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Soil Moisture,2,0.008953,Soil Moisture,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Soil Moisture,3,0.008939,Soil Moisture,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Soil Moisture,4,0.009757,Soil Moisture,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Soil Moisture,5,0.00956,Soil Moisture,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,soybean harvested area,1,0.001725,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,soybean harvested area,2,0.001197,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,soybean harvested area,3,0.001638,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,soybean harvested area,4,0.001536,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,soybean harvested area,5,0.001664,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,soybean harvested area,1,8.67E-04,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,soybean harvested area,2,0.001008,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,soybean harvested area,3,7.39E-04,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,soybean harvested area,4,9.33E-04,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,soybean harvested area,5,8.99E-04,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,soybean harvested area,1,0.001098,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,soybean harvested area,2,0.00109,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,soybean harvested area,3,0.001418,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,soybean harvested area,4,0.001371,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,soybean harvested area,5,0.001438,Soybean Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,soybean harvested area,1,6.05E-04,Soybean Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,soybean harvested area,2,8.11E-04,Soybean Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,soybean harvested area,3,8.37E-04,Soybean Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,soybean harvested area,4,9.37E-04,Soybean Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,soybean harvested area,5,9.51E-04,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,soybean harvested area,1,0.001646,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,soybean harvested area,2,0.001597,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,soybean harvested area,3,0.001547,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,soybean harvested area,4,0.001619,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,soybean harvested area,5,0.001871,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,soybean harvested area,1,0.001773,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,soybean harvested area,2,0.00174,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,soybean harvested area,3,0.001993,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,soybean harvested area,4,0.001566,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,soybean harvested area,5,0.001656,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,soybean harvested area,1,0.00139,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,soybean harvested area,2,0.001331,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,soybean harvested area,3,0.00117,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,soybean harvested area,4,0.001402,Soybean Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,soybean harvested area,5,0.00136,Soybean Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,soybean harvested area,1,0.003172,Soybean Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,soybean harvested area,2,0.003067,Soybean Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,soybean harvested area,3,0.00261,Soybean Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,soybean harvested area,4,0.00249,Soybean Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,soybean harvested area,5,0.002878,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,soybean harvested area,1,0.001985,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,soybean harvested area,2,0.001844,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,soybean harvested area,3,0.001985,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,soybean harvested area,4,0.001967,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,soybean harvested area,5,0.002411,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,soybean harvested area,1,0.001989,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,soybean harvested area,2,0.001873,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,soybean harvested area,3,0.002344,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,soybean harvested area,4,0.001857,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,soybean harvested area,5,0.001698,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,soybean harvested area,1,0.001721,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,soybean harvested area,2,0.001518,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,soybean harvested area,3,0.001792,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,soybean harvested area,4,0.001685,Soybean Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,soybean harvested area,5,0.001719,Soybean Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,soybean harvested area,1,0.001412,Soybean Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,soybean harvested area,2,0.00173,Soybean Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,soybean harvested area,3,0.001335,Soybean Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,soybean harvested area,4,0.001475,Soybean Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,soybean harvested area,5,0.001481,Soybean Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,soybean harvested area,1,2.81E-04,Soybean Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,soybean harvested area,2,2.74E-04,Soybean Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,soybean harvested area,3,3.71E-04,Soybean Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,soybean harvested area,4,2.78E-04,Soybean Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,soybean harvested area,5,2.98E-04,Soybean Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,sugarcane harvested area,1,0.048995,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,sugarcane harvested area,2,0.0468,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,sugarcane harvested area,3,0.047538,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,sugarcane harvested area,4,0.042895,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,sugarcane harvested area,5,0.045765,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,sugarcane harvested area,1,0.039917,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,sugarcane harvested area,2,0.039781,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,sugarcane harvested area,3,0.03047,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,sugarcane harvested area,4,0.035966,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,sugarcane harvested area,5,0.03906,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,sugarcane harvested area,1,0.017049,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,sugarcane harvested area,2,0.021096,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,sugarcane harvested area,3,0.022405,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,sugarcane harvested area,4,0.020001,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,sugarcane harvested area,5,0.022638,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,sugarcane harvested area,1,0.046806,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,sugarcane harvested area,2,0.047718,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,sugarcane harvested area,3,0.048621,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,sugarcane harvested area,4,0.043677,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,sugarcane harvested area,5,0.043108,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,sugarcane harvested area,1,0.005321,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,sugarcane harvested area,2,0.005629,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,sugarcane harvested area,3,0.004904,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,sugarcane harvested area,4,0.005068,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,sugarcane harvested area,5,0.004804,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,sugarcane harvested area,1,0.006111,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,sugarcane harvested area,2,0.00669,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,sugarcane harvested area,3,0.006668,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,sugarcane harvested area,4,0.006626,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,sugarcane harvested area,5,0.006015,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,sugarcane harvested area,1,0.007721,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,sugarcane harvested area,2,0.00842,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,sugarcane harvested area,3,0.008614,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,sugarcane harvested area,4,0.007602,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,sugarcane harvested area,5,0.008258,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,sugarcane harvested area,1,0.008119,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,sugarcane harvested area,2,0.008013,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,sugarcane harvested area,3,0.008495,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,sugarcane harvested area,4,0.008216,Sugarcane Harvested Area,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,sugarcane harvested area,5,0.009159,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,sugarcane harvested area,1,0.007167,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,sugarcane harvested area,2,0.007694,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,sugarcane harvested area,3,0.007056,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,sugarcane harvested area,4,0.006732,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,sugarcane harvested area,5,0.006727,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,sugarcane harvested area,1,0.008033,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,sugarcane harvested area,2,0.008145,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,sugarcane harvested area,3,0.008173,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,sugarcane harvested area,4,0.008227,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,sugarcane harvested area,5,0.007419,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,sugarcane harvested area,1,0.006508,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,sugarcane harvested area,2,0.006861,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,sugarcane harvested area,3,0.006624,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,sugarcane harvested area,4,0.006957,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,sugarcane harvested area,5,0.006639,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,sugarcane harvested area,1,0.009633,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,sugarcane harvested area,2,0.009538,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,sugarcane harvested area,3,0.009749,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,sugarcane harvested area,4,0.009547,Sugarcane Harvested Area,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,sugarcane harvested area,5,0.010452,Sugarcane Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,sugarcane harvested area,1,0.038327,Sugarcane Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,sugarcane harvested area,2,0.03515,Sugarcane Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,sugarcane harvested area,3,0.036165,Sugarcane Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,sugarcane harvested area,4,0.039453,Sugarcane Harvested Area,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,sugarcane harvested area,5,0.036996,Sugarcane Harvested Area,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Temperature,1,0.005036,Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Temperature,2,0.004537,Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Temperature,3,0.004747,Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Temperature,4,0.005212,Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,Temperature,5,0.004935,Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Temperature,1,4.74E-04,Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Temperature,2,5.49E-04,Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Temperature,3,4.55E-04,Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Temperature,4,5.03E-04,Temperature,Climate
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,Temperature,5,3.63E-04,Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Temperature,1,0.001248,Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Temperature,2,0.001125,Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Temperature,3,0.001164,Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Temperature,4,0.001007,Temperature,Climate
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,Temperature,5,0.00104,Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Temperature,1,0.002192,Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Temperature,2,0.002321,Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Temperature,3,0.002334,Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Temperature,4,0.002285,Temperature,Climate
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,Temperature,5,0.002142,Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Temperature,1,0.00514,Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Temperature,2,0.004847,Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Temperature,3,0.004803,Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Temperature,4,0.005222,Temperature,Climate
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,Temperature,5,0.004602,Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Temperature,1,9.83E-04,Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Temperature,2,9.55E-04,Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Temperature,3,9.65E-04,Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Temperature,4,9.56E-04,Temperature,Climate
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,Temperature,5,9.59E-04,Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Temperature,1,0.001929,Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Temperature,2,0.001782,Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Temperature,3,0.00186,Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Temperature,4,0.001761,Temperature,Climate
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,Temperature,5,0.001877,Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Temperature,1,0.001122,Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Temperature,2,0.001103,Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Temperature,3,0.00111,Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Temperature,4,0.001103,Temperature,Climate
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,Temperature,5,9.87E-04,Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Temperature,1,0.001765,Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Temperature,2,0.001731,Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Temperature,3,0.0019,Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Temperature,4,0.001816,Temperature,Climate
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,Temperature,5,0.001581,Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Temperature,1,7.09E-04,Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Temperature,2,6.66E-04,Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Temperature,3,7.29E-04,Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Temperature,4,7.32E-04,Temperature,Climate
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,Temperature,5,7.11E-04,Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Temperature,1,0.001462,Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Temperature,2,0.00148,Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Temperature,3,0.001337,Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Temperature,4,0.001415,Temperature,Climate
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,Temperature,5,0.001393,Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Temperature,1,0.001736,Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Temperature,2,0.00154,Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Temperature,3,0.001629,Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Temperature,4,0.001533,Temperature,Climate
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,Temperature,5,0.001704,Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Temperature,1,0.00117,Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Temperature,2,0.001273,Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Temperature,3,0.001184,Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Temperature,4,0.001199,Temperature,Climate
+Culicoides_allData_allRun_RF,allData,allRun,RF,Temperature,5,0.001266,Temperature,Climate
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,water occurrence,1,0.002851,Water Occurrence,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,water occurrence,2,0.003098,Water Occurrence,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,water occurrence,3,0.003745,Water Occurrence,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,water occurrence,4,0.001968,Water Occurrence,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,water occurrence,5,0.00202,Water Occurrence,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,water occurrence,1,0.001447,Water Occurrence,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,water occurrence,2,0.001302,Water Occurrence,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,water occurrence,3,0.001163,Water Occurrence,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,water occurrence,4,0.001371,Water Occurrence,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,water occurrence,5,0.001005,Water Occurrence,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,water occurrence,1,7.35E-04,Water Occurrence,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,water occurrence,2,0.001081,Water Occurrence,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,water occurrence,3,9.23E-04,Water Occurrence,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,water occurrence,4,9.41E-04,Water Occurrence,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,water occurrence,5,9.96E-04,Water Occurrence,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,water occurrence,1,0.001828,Water Occurrence,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,water occurrence,2,0.001669,Water Occurrence,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,water occurrence,3,0.001639,Water Occurrence,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,water occurrence,4,0.001534,Water Occurrence,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,water occurrence,5,0.001629,Water Occurrence,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,water occurrence,1,0.004254,Water Occurrence,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,water occurrence,2,0.003907,Water Occurrence,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,water occurrence,3,0.003631,Water Occurrence,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,water occurrence,4,0.003834,Water Occurrence,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,water occurrence,5,0.003919,Water Occurrence,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,water occurrence,1,0.008069,Water Occurrence,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,water occurrence,2,0.007514,Water Occurrence,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,water occurrence,3,0.006776,Water Occurrence,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,water occurrence,4,0.006765,Water Occurrence,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,water occurrence,5,0.008171,Water Occurrence,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,water occurrence,1,0.001132,Water Occurrence,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,water occurrence,2,0.001113,Water Occurrence,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,water occurrence,3,0.001331,Water Occurrence,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,water occurrence,4,0.001503,Water Occurrence,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,water occurrence,5,0.001235,Water Occurrence,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,water occurrence,1,0.00241,Water Occurrence,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,water occurrence,2,0.002211,Water Occurrence,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,water occurrence,3,0.002815,Water Occurrence,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,water occurrence,4,0.002822,Water Occurrence,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,water occurrence,5,0.002682,Water Occurrence,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,water occurrence,1,0.002886,Water Occurrence,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,water occurrence,2,0.0025,Water Occurrence,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,water occurrence,3,0.002792,Water Occurrence,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,water occurrence,4,0.00242,Water Occurrence,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,water occurrence,5,0.002366,Water Occurrence,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,water occurrence,1,0.001078,Water Occurrence,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,water occurrence,2,9.45E-04,Water Occurrence,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,water occurrence,3,8.16E-04,Water Occurrence,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,water occurrence,4,9.45E-04,Water Occurrence,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,water occurrence,5,8.90E-04,Water Occurrence,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,water occurrence,1,7.65E-04,Water Occurrence,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,water occurrence,2,8.30E-04,Water Occurrence,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,water occurrence,3,7.57E-04,Water Occurrence,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,water occurrence,4,5.60E-04,Water Occurrence,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,water occurrence,5,8.05E-04,Water Occurrence,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,water occurrence,1,0.001624,Water Occurrence,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,water occurrence,2,0.002377,Water Occurrence,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,water occurrence,3,0.002147,Water Occurrence,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,water occurrence,4,0.0023,Water Occurrence,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,water occurrence,5,0.002436,Water Occurrence,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,water occurrence,1,0.001801,Water Occurrence,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,water occurrence,2,0.001875,Water Occurrence,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,water occurrence,3,0.001739,Water Occurrence,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,water occurrence,4,0.002156,Water Occurrence,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,water occurrence,5,0.001798,Water Occurrence,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,woody savannas ,1,0.003373,Woody Savannas ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,woody savannas ,2,0.003935,Woody Savannas ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,woody savannas ,3,0.003394,Woody Savannas ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,woody savannas ,4,0.002674,Woody Savannas ,Land Use
+Culicoides_PA1_RUN1_RF,PA1,RUN1,RF,woody savannas ,5,0.004121,Woody Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,woody savannas ,1,0.003549,Woody Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,woody savannas ,2,0.003629,Woody Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,woody savannas ,3,0.003504,Woody Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,woody savannas ,4,0.003247,Woody Savannas ,Land Use
+Culicoides_PA1_RUN3_RF,PA1,RUN3,RF,woody savannas ,5,0.002984,Woody Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,woody savannas ,1,4.72E-04,Woody Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,woody savannas ,2,4.77E-04,Woody Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,woody savannas ,3,4.43E-04,Woody Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,woody savannas ,4,5.17E-04,Woody Savannas ,Land Use
+Culicoides_PA1_RUN4_RF,PA1,RUN4,RF,woody savannas ,5,4.77E-04,Woody Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,woody savannas ,1,0.00241,Woody Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,woody savannas ,2,0.001504,Woody Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,woody savannas ,3,0.00163,Woody Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,woody savannas ,4,0.001837,Woody Savannas ,Land Use
+Culicoides_PA1_allRun_RF,PA1,allRun,RF,woody savannas ,5,0.002124,Woody Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,woody savannas ,1,0.002399,Woody Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,woody savannas ,2,0.002486,Woody Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,woody savannas ,3,0.002514,Woody Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,woody savannas ,4,0.002588,Woody Savannas ,Land Use
+Culicoides_PA2_RUN1_RF,PA2,RUN1,RF,woody savannas ,5,0.002383,Woody Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,woody savannas ,1,0.003395,Woody Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,woody savannas ,2,0.003819,Woody Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,woody savannas ,3,0.003262,Woody Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,woody savannas ,4,0.003765,Woody Savannas ,Land Use
+Culicoides_PA2_RUN3_RF,PA2,RUN3,RF,woody savannas ,5,0.003678,Woody Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,woody savannas ,1,0.003124,Woody Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,woody savannas ,2,0.003089,Woody Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,woody savannas ,3,0.002724,Woody Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,woody savannas ,4,0.002971,Woody Savannas ,Land Use
+Culicoides_PA2_RUN4_RF,PA2,RUN4,RF,woody savannas ,5,0.00248,Woody Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,woody savannas ,1,0.002851,Woody Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,woody savannas ,2,0.00306,Woody Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,woody savannas ,3,0.002652,Woody Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,woody savannas ,4,0.002883,Woody Savannas ,Land Use
+Culicoides_PA2_allRun_RF,PA2,allRun,RF,woody savannas ,5,0.002983,Woody Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,woody savannas ,1,0.002215,Woody Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,woody savannas ,2,0.001678,Woody Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,woody savannas ,3,0.001967,Woody Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,woody savannas ,4,0.002133,Woody Savannas ,Land Use
+Culicoides_PA3_RUN1_RF,PA3,RUN1,RF,woody savannas ,5,0.001865,Woody Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,woody savannas ,1,0.001916,Woody Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,woody savannas ,2,0.00191,Woody Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,woody savannas ,3,0.001812,Woody Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,woody savannas ,4,0.002011,Woody Savannas ,Land Use
+Culicoides_PA3_RUN3_RF,PA3,RUN3,RF,woody savannas ,5,0.001789,Woody Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,woody savannas ,1,0.00213,Woody Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,woody savannas ,2,0.001987,Woody Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,woody savannas ,3,0.002138,Woody Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,woody savannas ,4,0.001883,Woody Savannas ,Land Use
+Culicoides_PA3_RUN4_RF,PA3,RUN4,RF,woody savannas ,5,0.002282,Woody Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,woody savannas ,1,0.002552,Woody Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,woody savannas ,2,0.00236,Woody Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,woody savannas ,3,0.002771,Woody Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,woody savannas ,4,0.002053,Woody Savannas ,Land Use
+Culicoides_PA3_allRun_RF,PA3,allRun,RF,woody savannas ,5,0.001902,Woody Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,woody savannas ,1,0.001009,Woody Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,woody savannas ,2,0.001106,Woody Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,woody savannas ,3,0.001109,Woody Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,woody savannas ,4,0.001054,Woody Savannas ,Land Use
+Culicoides_allData_allRun_RF,allData,allRun,RF,woody savannas ,5,0.001051,Woody Savannas ,Land Use
